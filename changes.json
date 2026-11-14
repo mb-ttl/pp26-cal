@@ -144,5 +144,20 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-14T16:00:55+00:00",
+    "added": [
+      "WG-PL: Ad Hoc Group on Resilience | Mon 16 Nov 17:30-19:30 | E"
+    ],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "Committee 5 Ad hoc Group on Resolution 177 | Mon 16 Nov 11:30-13:00 | F3",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0017/en'"
+        ]
+      }
+    ]
   }
 ]
