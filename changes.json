@@ -49,5 +49,18 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-14T14:15:31+00:00",
+    "added": [],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "Committee 5 Ad hoc Group on Resolution 21 and Resolution 190 | Mon 16 Nov 18:30-20:30 | G3",
+        "lines": [
+          "  room: 'D (Hall 2)' -> 'G3 (Hall 4)'"
+        ]
+      }
+    ]
   }
 ]
