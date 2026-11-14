@@ -116,5 +116,33 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-14T15:45:33+00:00",
+    "added": [
+      "COM5 Informal Consultation on Res. 138 and DNR on support to Regulatory Authorities | Mon 16 Nov 13:00-14:30 | G1",
+      "COM5 Chair and Vice-Chairs meetings | Mon 16 Nov 14:15-14:45 | Suite 3A"
+    ],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "Committee 5 Ad hoc Group on Resolution 136 and 182 | Mon 16 Nov 18:30-20:30 | F3",
+        "lines": [
+          "  documentNumber: 'S26-PP-261109-DL-0014/en' -> 'S26-PP-261109-DL-0047/en'"
+        ]
+      },
+      {
+        "heading": "Committee 5 Ad hoc Group on Resolution 136 and 182 | Tue 17 Nov 08:00-09:30 | F3",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0047/en'"
+        ]
+      },
+      {
+        "heading": "Committee 5 Ad hoc Group on Resolution 136 and 182 | Tue 17 Nov 18:00-20:00 | F2",
+        "lines": [
+          "  documentNumber: 'S26-PP-261109-DL-0014/en' -> 'S26-PP-261109-DL-0047/en'"
+        ]
+      }
+    ]
   }
 ]
