@@ -186,5 +186,18 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-14T16:45:33+00:00",
+    "added": [],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "COM5 AHG on ITU modernization and increasing the role of ITU in managing limited resources | Mon 16 Nov 18:40-19:50 | D",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0060/en'"
+        ]
+      }
+    ]
   }
 ]
