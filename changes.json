@@ -503,5 +503,44 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-16T14:45:53+00:00",
+    "added": [
+      "WG-PL: Ad Hoc Group on Internet related resolutions | Mon 16 Nov 19:35-21:00 | E"
+    ],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "WG-PL: Ad Hoc Group on WSIS | Mon 16 Nov 18:00-19:25 | G1",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0063/en'"
+        ]
+      },
+      {
+        "heading": "COM5 AHG on Space Issues (DNR Advancing satellite systems) | Tue 17 Nov 09:30-11:00 | E",
+        "lines": [
+          "  room: 'F1 (Hall 3)' -> 'E (Hall 3)'"
+        ]
+      },
+      {
+        "heading": "Committee 5 Ad Hoc Group on Harmful Interference | Tue 17 Nov 16:00-17:15 | D",
+        "lines": [
+          "  room: 'F1 (Hall 3)' -> 'D (Hall 2)'"
+        ]
+      },
+      {
+        "heading": "COM5 AHG on Frequency assignments and satellite issues | Tue 17 Nov 17:30-18:45 | D",
+        "lines": [
+          "  room: 'F1 (Hall 3)' -> 'D (Hall 2)'"
+        ]
+      },
+      {
+        "heading": "Committee 5 Ad hoc on Resolution 186, 218, DNR Space 2030, Lunar, LEO | Wed 18 Nov 16:00-17:15 | A - Plenary",
+        "lines": [
+          "  room: 'F1 (Hall 3)' -> 'A - Plenary (Hall 1)'"
+        ]
+      }
+    ]
   }
 ]
