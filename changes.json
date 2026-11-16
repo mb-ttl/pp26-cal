@@ -672,5 +672,18 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-16T18:15:35+00:00",
+    "added": [],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "COMMITTEE 6 AD-HOC GROUP ON RES. 25 , 157 and 30 | Tue 17 Nov 14:30-17:30 | F2",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0064'"
+        ]
+      }
+    ]
   }
 ]
