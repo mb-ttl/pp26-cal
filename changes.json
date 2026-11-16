@@ -423,5 +423,34 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-16T14:01:02+00:00",
+    "added": [
+      "WG-PL: Ad Hoc Group on Internet related resolutions | Mon 16 Nov 19:35-21:00 | E",
+      "COM5 Informal Consultation Res. 138 (GSR) and draft new resolution on support to Regulatory Authorities | Tue 17 Nov 16:00-17:30 | G5",
+      "COM5 Informal Consultation Res. 138 (GSR) and draft new resolution on support to Regulatory Authorities | Wed 18 Nov 16:00-17:30 | G5"
+    ],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "Committee 5 Ad Hoc Group on Harmful Interference | Tue 17 Nov 16:00-17:15 | F1",
+        "lines": [
+          "  end: 17 Nov 17:30 -> 17 Nov 17:15"
+        ]
+      },
+      {
+        "heading": "COM5 AHG on Frequency assignments and satellite issues | Tue 17 Nov 17:30-18:45 | F1",
+        "lines": [
+          "  end: 17 Nov 19:00 -> 17 Nov 18:45"
+        ]
+      },
+      {
+        "heading": "Committee 5 Ad hoc on Resolution 186, 218, DNR Space 2030, Lunar, LEO | Wed 18 Nov 16:00-17:15 | F1",
+        "lines": [
+          "  end: 18 Nov 17:30 -> 18 Nov 17:15"
+        ]
+      }
+    ]
   }
 ]
