@@ -649,5 +649,15 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-16T16:30:48+00:00",
+    "added": [
+      "Committee 5 Ad Hoc Group on Harmful Interference | Wed 18 Nov 09:30-10:45 | A - Plenary",
+      "COM5 AHG on Frequency assignments and satellite issues | Wed 18 Nov 17:30-18:45 | A - Plenary",
+      "COM5 AHG on Space Issues (DNR Lunar exploration) | Wed 18 Nov 19:00-20:30 | A - Plenary"
+    ],
+    "removed": [],
+    "changed": []
   }
 ]
