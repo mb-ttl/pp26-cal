@@ -706,5 +706,27 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-16T19:00:59+00:00",
+    "added": [
+      "COM5 Informal Consultation on Res. 199 | Tue 17 Nov 16:30-18:00 | G3",
+      "COM5 AHG on ITU modernization and increasing the role of ITU in managing limited resources | Thu 19 Nov 17:30-18:45 | B"
+    ],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "COM5 Informal Consultation on ITU-R modernization and increasing the role of ITU in managing limited resources | Tue 17 Nov 11:30-13:00 | E",
+        "lines": [
+          "  name: 'COM5 AHG on ITU modernization and increasing the role of ITU in managing limited resources' -> 'COM5 Informal Consultation on ITU-R modernization and increasing the role of ITU in managing limited resources'"
+        ]
+      },
+      {
+        "heading": "COM5 AHG on Res 176 EMF | Tue 17 Nov 13:00-14:30 | G1",
+        "lines": [
+          "  name: 'COM 5 Informal Consultation on Res. 176' -> 'COM5 AHG on Res 176 EMF'"
+        ]
+      }
+    ]
   }
 ]
