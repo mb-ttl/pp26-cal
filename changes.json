@@ -659,5 +659,18 @@
     ],
     "removed": [],
     "changed": []
+  },
+  {
+    "checked_utc": "2026-11-16T16:45:40+00:00",
+    "added": [],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "Informal COM5 AHG on Frequency assignments and satellite-Increasing responsibility of notifying administration (94A28) | Tue 17 Nov 13:00-14:30 | G5",
+        "lines": [
+          "  name: 'COM5 AHG on Satellite and Frequency Assignments' -> 'Informal COM5 AHG on Frequency assignments and satellite-Increasing responsibility of notifying administration (94A28)'"
+        ]
+      }
+    ]
   }
 ]
