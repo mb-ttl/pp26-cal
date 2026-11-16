@@ -467,5 +467,41 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-16T14:30:56+00:00",
+    "added": [
+      "WG-PL: Ad Hoc Group on WSIS | Mon 16 Nov 18:00-19:25 | G1"
+    ],
+    "removed": [
+      "WG-PL: Ad Hoc Group on Internet related resolutions | Mon 16 Nov 19:35-21:00 | E"
+    ],
+    "changed": [
+      {
+        "heading": "Committee 5 Ad hoc Group on Resolution 136 and 182 | Mon 16 Nov 18:30-20:30 | F1",
+        "lines": [
+          "  room: 'F3 (Hall 4)' -> 'F1 (Hall 3)'"
+        ]
+      },
+      {
+        "heading": "COM5 AHG on ITU modernization and increasing the role of ITU in managing limited resources | Tue 17 Nov 11:30-13:00 | E",
+        "lines": [
+          "  start: 17 Nov 11:40 -> 17 Nov 11:30",
+          "  end: 17 Nov 12:50 -> 17 Nov 13:00"
+        ]
+      },
+      {
+        "heading": "COM5 AHG on ITU modernization and increasing the role of ITU in managing limited resources | Wed 18 Nov 11:00-12:30 | B",
+        "lines": [
+          "  room: 'F3 (Hall 4)' -> 'B (Hall 4)'"
+        ]
+      },
+      {
+        "heading": "WG-PL | Fri 20 Nov 14:30-16:00 | A - Plenary",
+        "lines": [
+          "  room: 'C (Hall 2)' -> 'A - Plenary (Hall 1)'"
+        ]
+      }
+    ]
   }
 ]
