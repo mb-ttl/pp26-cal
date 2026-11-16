@@ -542,5 +542,21 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-16T15:01:17+00:00",
+    "added": [
+      "COMMITTEE 6 AD-HOC GROUP ON DEC.5 | Tue 17 Nov 08:00-10:30 | F2",
+      "WG-PL: Ad Hoc Group on Network related resolutions | Tue 17 Nov 08:00-11:00 | B",
+      "COMMITTEE 6 AD HOC GROUP ON RESOLUTIONS 212 AND 217 | Tue 17 Nov 17:30-19:00 | G1",
+      "COMMITTEE 6 AD-HOC GROUP ON DEC.5 | Wed 18 Nov 14:30-17:30 | F3",
+      "COMMITTEE 6 AD HOC GROUP ON RESOLUTIONS 212 AND 217 | Wed 18 Nov 17:30-19:00 | G1",
+      "COMMITTEE 6 AD-HOC GROUP ON DEC.5 | Thu 19 Nov 08:00-09:30 | F3",
+      "COMMITTEE 6 AD HOC GROUP ON RESOLUTIONS 212 AND 217 | Thu 19 Nov 17:30-19:00 | G1"
+    ],
+    "removed": [
+      "COM5 Internal Consultation on Res.119 | Tue 17 Nov 19:00-20:30 | G1"
+    ],
+    "changed": []
   }
 ]
