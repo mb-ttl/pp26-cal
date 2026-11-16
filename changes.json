@@ -628,5 +628,26 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-16T16:15:34+00:00",
+    "added": [
+      "COM5 AHG on Satellite and Frequency Assignments | Tue 17 Nov 13:00-14:30 | G5"
+    ],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "COM5 AHG on Space Issues PNR Lunar exploration | Tue 17 Nov 09:30-11:00 | E",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0080/en'"
+        ]
+      },
+      {
+        "heading": "COM5 AHG on ITU modernization and increasing the role of ITU in managing limited resources | Tue 17 Nov 11:30-13:00 | E",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0060/en'"
+        ]
+      }
+    ]
   }
 ]
