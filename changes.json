@@ -244,5 +244,26 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-16T08:37:18+00:00",
+    "added": [
+      "COM5 Informal Consultation on Res. 119 | Tue 17 Nov 08:00-09:20 | G4"
+    ],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "Committee 6 Ad-Hoc Group on Resolution 71 | Tue 17 Nov 16:00-18:00 | G4",
+        "lines": [
+          "  name: 'Ad-Hoc Group on Resolution 71' -> 'Committee 6 Ad-Hoc Group on Resolution 71'"
+        ]
+      },
+      {
+        "heading": "Committee 6 Ad-Hoc Group on Resolution 71 | Wed 18 Nov 18:00-19:30 | G3",
+        "lines": [
+          "  name: 'Ad-Hoc Group on Resolution 71' -> 'Committee 6 Ad-Hoc Group on Resolution 71'"
+        ]
+      }
+    ]
   }
 ]
