@@ -591,5 +591,42 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-16T15:45:33+00:00",
+    "added": [],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "COM5 AHG on Space Issues PNR Lunar exploration | Tue 17 Nov 09:30-11:00 | E",
+        "lines": [
+          "  name: 'COM5 AHG on Space Issues (DNR Advancing satellite systems)' -> 'COM5 AHG on Space Issues PNR Lunar exploration'"
+        ]
+      },
+      {
+        "heading": "WG-PL | Tue 24 Nov 11:00-12:30 | B",
+        "lines": [
+          "  room: 'C (Hall 2)' -> 'B (Hall 4)'"
+        ]
+      },
+      {
+        "heading": "WG-PL followed by Committee 5 | Tue 24 Nov 14:30-17:30 | A - Plenary",
+        "lines": [
+          "  room: 'C (Hall 2)' -> 'A - Plenary (Hall 1)'"
+        ]
+      },
+      {
+        "heading": "WG-PL | Wed 25 Nov 14:30-16:00 | A - Plenary",
+        "lines": [
+          "  room: 'C (Hall 2)' -> 'A - Plenary (Hall 1)'"
+        ]
+      },
+      {
+        "heading": "Extraordinary session of the 2027 Council | Fri 27 Nov 09:30-11:30 | D",
+        "lines": [
+          "  room: 'C (Hall 2)' -> 'D (Hall 2)'"
+        ]
+      }
+    ]
   }
 ]
