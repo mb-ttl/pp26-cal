@@ -685,5 +685,26 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-16T18:45:33+00:00",
+    "added": [
+      "WG-PL: Ad Hoc Group on Internet related resolutions | Tue 17 Nov 14:30-16:30 | C",
+      "WG-PL: Ad Hoc Group on Cybersecurity | Tue 17 Nov 16:00-18:00 | E",
+      "WG-PL: Ad Hoc Group on Digital inclusion ( Res. 70, 198,175) | Tue 17 Nov 16:30-18:00 | F3",
+      "WG-PL: Ad Hoc Group on AI | Tue 17 Nov 18:00-20:00 | E",
+      "WG-PL: Ad Hoc Group on Resilience | Tue 17 Nov 20:00-22:00 | E"
+    ],
+    "removed": [
+      "Informal COM5 AHG on Frequency assignments and satellite-Increasing responsibility of notifying administration (94A28) | Tue 17 Nov 13:00-14:30 | G5"
+    ],
+    "changed": [
+      {
+        "heading": "WG-PL: Ad Hoc Group on Digital inclusion ( Res. 70, 198,175) | Tue 17 Nov 09:30-11:00 | G1",
+        "lines": [
+          "  name: 'WG-PL: Ad Hoc Group on Digital inclusion' -> 'WG-PL: Ad Hoc Group on Digital inclusion ( Res. 70, 198,175)'"
+        ]
+      }
+    ]
   }
 ]
