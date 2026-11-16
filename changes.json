@@ -357,5 +357,30 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-16T12:00:59+00:00",
+    "added": [],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "Plenary - Elections RRB & Council followed by COM 6 | Mon 16 Nov 09:30-12:30 | A - Plenary",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-ADM-0022/en'"
+        ]
+      },
+      {
+        "heading": "Committee 6 | Mon 16 Nov 14:30-17:30 | B",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-ADM-0008/en'"
+        ]
+      },
+      {
+        "heading": "Committee 5 Ad hoc Group on Resolution 188 and Resolution 189 | Wed 18 Nov 09:30-11:00 | F3",
+        "lines": [
+          "  name: 'Committee 5 Ad hoc Group on Resolution 177' -> 'Committee 5 Ad hoc Group on Resolution 188 and Resolution 189'"
+        ]
+      }
+    ]
   }
 ]
