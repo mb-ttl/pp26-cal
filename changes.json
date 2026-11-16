@@ -566,5 +566,30 @@
     ],
     "removed": [],
     "changed": []
+  },
+  {
+    "checked_utc": "2026-11-16T15:30:50+00:00",
+    "added": [],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "WG-PL: Ad Hoc Group on Internet related resolutions | Mon 16 Nov 19:35-21:00 | F3",
+        "lines": [
+          "  room: 'E (Hall 3)' -> 'F3 (Hall 4)'"
+        ]
+      },
+      {
+        "heading": "WG-PL: Ad Hoc Group on Network related resolutions | Tue 17 Nov 08:00-11:00 | B",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0072/en'"
+        ]
+      },
+      {
+        "heading": "Committee 5 followed by WG-PL | Mon 23 Nov 09:30-12:30 | A - Plenary",
+        "lines": [
+          "  room: 'C (Hall 2)' -> 'A - Plenary (Hall 1)'"
+        ]
+      }
+    ]
   }
 ]
