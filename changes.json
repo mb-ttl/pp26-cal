@@ -304,5 +304,39 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-16T11:01:02+00:00",
+    "added": [
+      "Committee 5 | Mon 16 Nov 17:30-18:30 | C",
+      "Committee 4 | Mon 16 Nov 18:00-20:00 | H"
+    ],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "Committee 6 | Mon 16 Nov 14:30-17:30 | B",
+        "lines": [
+          "  name: 'Committee 6 followed by Committee 5' -> 'Committee 6'"
+        ]
+      },
+      {
+        "heading": "WG-PL | Mon 16 Nov 14:30-17:30 | C",
+        "lines": [
+          "  end: 16 Nov 16:00 -> 16 Nov 17:30"
+        ]
+      },
+      {
+        "heading": "COM5 AHG on Frequency assignments and satellite issues | Mon 16 Nov 16:00-17:30 | F1",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0051/en'"
+        ]
+      },
+      {
+        "heading": "Committee 5 Ad hoc Group on Resolution 136 and 182 | Tue 17 Nov 08:00-09:30 | E",
+        "lines": [
+          "  room: 'F3 (Hall 4)' -> 'E (Hall 3)'"
+        ]
+      }
+    ]
   }
 ]
