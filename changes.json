@@ -1277,5 +1277,18 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-17T16:15:35+00:00",
+    "added": [],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "COM5 AHG on Res. 196 on consumer protection | Wed 18 Nov 17:30-18:30 | F1",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0045/en'"
+        ]
+      }
+    ]
   }
 ]
