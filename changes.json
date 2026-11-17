@@ -890,5 +890,18 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-17T08:45:36+00:00",
+    "added": [],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "COM5 AHG on Resolution 136 and 182 | Wed 18 Nov 17:30-20:30 | G2",
+        "lines": [
+          "  room: 'F3 (Hall 4)' -> 'G2 (Hall 4)'"
+        ]
+      }
+    ]
   }
 ]
