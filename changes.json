@@ -966,5 +966,20 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-17T11:30:48+00:00",
+    "added": [
+      "WG-PL Informal Consultation on Resolution 139 | Tue 17 Nov 14:30-17:30 | Suite 2E"
+    ],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "Committee 6 Ad-Hoc Group on Resolution 71 | Wed 18 Nov 18:00-20:30 | G3",
+        "lines": [
+          "  end: 18 Nov 19:30 -> 18 Nov 20:30"
+        ]
+      }
+    ]
   }
 ]
