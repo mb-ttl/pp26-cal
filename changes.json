@@ -981,5 +981,24 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-17T11:45:32+00:00",
+    "added": [
+      "COMMITTEE 6 AD-HOC GROUP ON RES. 25 , 157 and 30 | Wed 18 Nov 09:00-11:30 | E",
+      "COM6 AHG on Dec 11, Res 148 & 208 and draft new resolution on Term of office for elected officials | Wed 18 Nov 09:30-12:30 | F2",
+      "COM6 AHG on Dec 11, Res 148 & 208 and draft new resolution on Term of office for elected officials | Thu 19 Nov 09:30-12:30 | F2"
+    ],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "COMMITTEE 6 AD HOC GROUP ON RESOLUTIONS 212 AND 217 | Tue 17 Nov 18:00-19:30 | F3",
+        "lines": [
+          "  start: 17 Nov 17:30 -> 17 Nov 18:00",
+          "  end: 17 Nov 19:00 -> 17 Nov 19:30",
+          "  room: 'G1 (Hall 3)' -> 'F3 (Hall 4)'"
+        ]
+      }
+    ]
   }
 ]
