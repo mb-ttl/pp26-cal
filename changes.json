@@ -1250,5 +1250,32 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-17T15:45:33+00:00",
+    "added": [
+      "COM 5 Informal drafting ITU-R Modernization and enhanced management of limited resources | Wed 18 Nov 11:00-12:30 | Suite 1B"
+    ],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "WG-PL: Ad Hoc Group on AI | Tue 17 Nov 18:00-20:00 | E",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0029/en'"
+        ]
+      },
+      {
+        "heading": "WG-PL: Ad Hoc Group on Cybersecurity | Wed 18 Nov 08:30-11:30 | C",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0041/en'"
+        ]
+      },
+      {
+        "heading": "WG-PL: Ad Hoc Group on Resilience | Wed 18 Nov 17:30-21:00 | D",
+        "lines": [
+          "  room: 'E (Hall 3)' -> 'D (Hall 2)'"
+        ]
+      }
+    ]
   }
 ]
