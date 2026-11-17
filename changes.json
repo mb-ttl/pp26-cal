@@ -1159,5 +1159,24 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-17T14:30:51+00:00",
+    "added": [],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "WG-PL: Ad Hoc Group on Resilience | Tue 17 Nov 20:00-22:00 | E",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0085/en'"
+        ]
+      },
+      {
+        "heading": "WG-PL: Informal Consultation on Res. 131 | Wed 18 Nov 14:00-16:00 | F1",
+        "lines": [
+          "  name: 'WG-PL: Ad Hoc Group on Resolution 131' -> 'WG-PL: Informal Consultation on Res. 131'"
+        ]
+      }
+    ]
   }
 ]
