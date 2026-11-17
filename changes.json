@@ -1290,5 +1290,20 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-17T16:30:49+00:00",
+    "added": [],
+    "removed": [
+      "Committee 6 | Wed 18 Nov 09:30-11:00 | B"
+    ],
+    "changed": [
+      {
+        "heading": "COMMITTEE 6 Ad hoc Group on Resolution 91 | Wed 18 Nov 11:00-12:30 | F1",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0069/en'"
+        ]
+      }
+    ]
   }
 ]
