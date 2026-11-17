@@ -817,5 +817,25 @@
       "COMMITTEE 6 AD HOC GROUP ON RESOLUTIONS 212 AND 217 | Thu 19 Nov 17:30-19:00 | G1"
     ],
     "changed": []
+  },
+  {
+    "checked_utc": "2026-11-17T07:15:33+00:00",
+    "added": [
+      "COM5 IC on Res. 119 | Wed 18 Nov 08:00-09:20 | G4"
+    ],
+    "removed": [
+      "WG-PL: Informal Consultation on Resolution 133 | Tue 17 Nov 12:30-13:30 | Suite 3A",
+      "WG-PL: Informal Consultation on Resolution 180 | Tue 17 Nov 13:30-14:30 | Suite 3A",
+      "COM5 Informal Consultation Res. 138 (GSR) and draft new resolution on support to Regulatory Authorities | Tue 17 Nov 16:00-17:30 | G5",
+      "WG-PL: Informal Consultation on Resolution 206 | Tue 17 Nov 17:30-18:30 | Suite 3A"
+    ],
+    "changed": [
+      {
+        "heading": "WG-PL | Tue 17 Nov 11:00-12:30 | B",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-ADM-0012/en'"
+        ]
+      }
+    ]
   }
 ]
