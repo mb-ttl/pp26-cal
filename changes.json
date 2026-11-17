@@ -1040,5 +1040,20 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-17T12:30:50+00:00",
+    "added": [
+      "Committee 6 - Informal Consultation on Resolutions 94 and 162 | Wed 18 Nov 17:30-18:30 | Suite 3A"
+    ],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "COMMITTEE 6 AD HOC GROUP ON RESOLUTIONS 212 AND 217 | Tue 17 Nov 18:00-19:30 | F3",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0079/en'"
+        ]
+      }
+    ]
   }
 ]
