@@ -949,5 +949,22 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-17T10:45:34+00:00",
+    "added": [
+      "COMMITTEE 6 Ad hoc group on resolution 91 | Wed 18 Nov 11:00-12:30 | F1",
+      "COMMITTEE 6 Ad hoc group on resolution 91 | Thu 19 Nov 11:00-12:30 | F1"
+    ],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "WG-PL Informal Consultation on Resolution 197 | Tue 17 Nov 14:30-17:30 | Suite 4E",
+        "lines": [
+          "  start: 17 Nov 15:30 -> 17 Nov 14:30",
+          "  room: 'Suite 1B' -> 'Suite 4E'"
+        ]
+      }
+    ]
   }
 ]
