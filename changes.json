@@ -1065,5 +1065,26 @@
     ],
     "removed": [],
     "changed": []
+  },
+  {
+    "checked_utc": "2026-11-17T13:00:59+00:00",
+    "added": [
+      "WG-PL: Ad Hoc Group on Cybersecurity | Wed 18 Nov 08:30-11:30 | C",
+      "WG-PL Informal Consultation on Resolution 133 | Wed 18 Nov 10:00-11:00 | G1",
+      "WG-PL: Ad Hoc Group on Internet related resolutions | Wed 18 Nov 11:30-14:00 | C",
+      "WG-PL: Ad Hoc Group on Network related resolutions | Wed 18 Nov 12:00-14:00 | F3",
+      "WG-PL: Ad Hoc Group on AI | Wed 18 Nov 14:00-16:00 | D",
+      "WG-PL: Ad Hoc Group on Resilience | Wed 18 Nov 17:30-21:00 | E",
+      "WG-PL: Ad Hoc Group on Digital inclusion | Wed 18 Nov 18:00-21:00 | F2"
+    ],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "COM6 AHG on Dec 11, Res 148 & 208 and draft new resolution on Term of office for elected officials | Wed 18 Nov 09:30-12:30 | F2",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0053/en'"
+        ]
+      }
+    ]
   }
 ]
