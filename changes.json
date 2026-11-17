@@ -873,5 +873,22 @@
     ],
     "removed": [],
     "changed": []
+  },
+  {
+    "checked_utc": "2026-11-17T08:30:57+00:00",
+    "added": [
+      " COM5 AHG on Resolution 136 and 182 | Wed 18 Nov 08:00-09:30 | G5",
+      "COM 5 AHG on Res.146 ITRs | Wed 18 Nov 16:00-18:00 | G4",
+      "COM 5 AHG on Res.146 ITRs | Sat 21 Nov 14:00-16:00 | G1"
+    ],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "COMMITTEE 6 Ad hoc group on resolution 91 | Tue 17 Nov 14:00-16:00 | F1",
+        "lines": [
+          "  end: 17 Nov 16:30 -> 17 Nov 16:00"
+        ]
+      }
+    ]
   }
 ]
