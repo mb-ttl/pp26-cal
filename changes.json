@@ -807,5 +807,15 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-17T06:45:30+00:00",
+    "added": [],
+    "removed": [
+      "COMMITTEE 6 AD HOC GROUP ON RESOLUTIONS 212 AND 217 | Tue 17 Nov 17:30-19:00 | G1",
+      "COMMITTEE 6 AD HOC GROUP ON RESOLUTIONS 212 AND 217 | Wed 18 Nov 17:30-19:00 | G1",
+      "COMMITTEE 6 AD HOC GROUP ON RESOLUTIONS 212 AND 217 | Thu 19 Nov 17:30-19:00 | G1"
+    ],
+    "changed": []
   }
 ]
