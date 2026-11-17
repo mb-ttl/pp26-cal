@@ -1377,5 +1377,14 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-17T21:30:45+00:00",
+    "added": [],
+    "removed": [
+      "Committee 5 Ad Hoc Group on harmful interference | Wed 18 Nov 09:30-10:45 | A - Plenary",
+      "COM5 AHG on frequency assignments and satellite issues | Wed 18 Nov 17:30-18:45 | A - Plenary"
+    ],
+    "changed": []
   }
 ]
