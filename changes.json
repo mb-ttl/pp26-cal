@@ -1095,5 +1095,21 @@
     ],
     "removed": [],
     "changed": []
+  },
+  {
+    "checked_utc": "2026-11-17T13:30:48+00:00",
+    "added": [
+      "COM 5 Ad hoc Group on Res.176 EMF | Wed 18 Nov 10:00-12:00 | G3",
+      "Committee 6 Informal Consultation on Resolution 77 | Wed 18 Nov 14:00-16:00 | Suite 4C"
+    ],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "COM5 AHG on Space Issues (PNR LEO coordination) | Wed 18 Nov 19:00-20:30 | A - Plenary",
+        "lines": [
+          "  name: 'COM5 AHG on Space Issues (DNR Lunar exploration)' -> 'COM5 AHG on Space Issues (PNR LEO coordination)'"
+        ]
+      }
+    ]
   }
 ]
