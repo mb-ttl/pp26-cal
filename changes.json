@@ -913,5 +913,18 @@
     ],
     "removed": [],
     "changed": []
+  },
+  {
+    "checked_utc": "2026-11-17T09:30:47+00:00",
+    "added": [],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "Committee 6 Ad-Hoc Group on Resolution 71 | Tue 17 Nov 16:00-18:00 | G4",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0024/en'"
+        ]
+      }
+    ]
   }
 ]
