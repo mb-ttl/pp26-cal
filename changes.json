@@ -1000,5 +1000,20 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-17T12:01:12+00:00",
+    "added": [],
+    "removed": [
+      "COM5 AHG on ITU modernization and increasing the role of ITU in managing limited resources | Wed 18 Nov 11:00-12:30 | B"
+    ],
+    "changed": [
+      {
+        "heading": "Committee 5 Ad hoc Group on Resolution 2 – WTPF | Tue 17 Nov 18:00-19:00 | G2",
+        "lines": [
+          "  start: 17 Nov 17:30 -> 17 Nov 18:00"
+        ]
+      }
+    ]
   }
 ]
