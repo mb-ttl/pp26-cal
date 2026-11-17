@@ -1339,5 +1339,30 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-17T18:15:34+00:00",
+    "added": [],
+    "removed": [],
+    "changed": [
+      {
+        "heading": " COM5 AHG on Resolution 136 and 182 | Wed 18 Nov 08:00-09:30 | G5",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0047/en'"
+        ]
+      },
+      {
+        "heading": "COMMITTEE 6 AD-HOC GROUP ON RES. 25 , 157 and 30 | Wed 18 Nov 09:00-11:30 | E",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0064/en'"
+        ]
+      },
+      {
+        "heading": "COM5 AHG on Resolution 136 and 182 | Wed 18 Nov 17:30-20:30 | G2",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0047/en'"
+        ]
+      }
+    ]
   }
 ]
