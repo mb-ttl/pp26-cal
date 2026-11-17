@@ -1186,5 +1186,21 @@
     ],
     "removed": [],
     "changed": []
+  },
+  {
+    "checked_utc": "2026-11-17T15:01:07+00:00",
+    "added": [],
+    "removed": [
+      "WG-PL Informal Consultation on Resolution 133 | Wed 18 Nov 10:00-11:00 | G1",
+      "COM5 AHG on Res. 146 | Wed 18 Nov 16:00-18:00 | F2"
+    ],
+    "changed": [
+      {
+        "heading": "WG-PL: Ad Hoc Group on Digital inclusion ( Res. 70, 198, 175) | Wed 18 Nov 18:00-21:00 | F2",
+        "lines": [
+          "  name: 'WG-PL: Ad Hoc Group on Digital inclusion' -> 'WG-PL: Ad Hoc Group on Digital inclusion ( Res. 70, 198, 175)'"
+        ]
+      }
+    ]
   }
 ]
