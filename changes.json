@@ -1210,5 +1210,45 @@
       "WG-PL Informal Consultation on Resolution 197 | Wed 18 Nov 18:30-19:30 | G5"
     ],
     "changed": []
+  },
+  {
+    "checked_utc": "2026-11-17T15:30:51+00:00",
+    "added": [
+      "Committee 4 | Wed 18 Nov 10:00-12:00 | H",
+      "COMMITTEE 6 AD HOC GROUP ON RESOLUTION 48 | Wed 18 Nov 12:30-14:00 | G5",
+      "COM5 AHG on Satellite and Frequency Assignments | Thu 19 Nov 09:30-11:00 | D",
+      "COM5 AHG on Harmful interference | Thu 19 Nov 19:00-20:30 | E"
+    ],
+    "removed": [
+      "WG-PL Informal Consultation on Resolution 180 | Wed 18 Nov 17:30-18:30 | G5"
+    ],
+    "changed": [
+      {
+        "heading": "COMMITTEE 6 Ad hoc Group on Resolution 91 | Wed 18 Nov 11:00-12:30 | F1",
+        "lines": [
+          "  name: 'COMMITTEE 6 Ad hoc group on resolution 91' -> 'COMMITTEE 6 Ad hoc Group on Resolution 91'"
+        ]
+      },
+      {
+        "heading": "Committee 6 Ad hoc Group on Decision 5 | Wed 18 Nov 14:30-17:30 | F3",
+        "lines": [
+          "  name: 'COMMITTEE 6 AD-HOC GROUP ON DEC.5' -> 'Committee 6 Ad hoc Group on Decision 5'"
+        ]
+      },
+      {
+        "heading": "Committee 6 Ad hoc Group on Resolution 5 | Wed 18 Nov 18:00-19:30 | G4",
+        "lines": [
+          "  name: 'Committee 6 Ad hoc on Resolution 5' -> 'Committee 6 Ad hoc Group on Resolution 5'",
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0096/en'"
+        ]
+      },
+      {
+        "heading": "Committee 6 Ad hoc Group on Resolutions 212 and 217 | Wed 18 Nov 18:00-19:30 | G1",
+        "lines": [
+          "  name: 'COMMITTEE 6 AD HOC GROUP ON RESOLUTIONS 212 AND 217' -> 'Committee 6 Ad hoc Group on Resolutions 212 and 217'",
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0079/en'"
+        ]
+      }
+    ]
   }
 ]
