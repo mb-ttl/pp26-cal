@@ -1015,5 +1015,30 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-17T12:15:35+00:00",
+    "added": [],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "WG-PL: Ad Hoc Group on Digital inclusion ( Res. 70, 198, 175) | Tue 17 Nov 16:30-18:00 | F3",
+        "lines": [
+          "  name: 'WG-PL: Ad Hoc Group on Digital inclusion ( Res. 70, 198,175)' -> 'WG-PL: Ad Hoc Group on Digital inclusion ( Res. 70, 198, 175)'"
+        ]
+      },
+      {
+        "heading": "Committee 5 Ad hoc Group on Resolution 2 – WTPF | Tue 17 Nov 18:00-19:00 | G2",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0087/en'"
+        ]
+      },
+      {
+        "heading": "Committee 2 | Wed 18 Nov 09:30-12:30 | D",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-ADM-0025'"
+        ]
+      }
+    ]
   }
 ]
