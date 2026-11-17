@@ -935,5 +935,19 @@
     ],
     "removed": [],
     "changed": []
+  },
+  {
+    "checked_utc": "2026-11-17T10:00:57+00:00",
+    "added": [],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "COMMITTEE 6 AD HOC GROUP ON RESOLUTIONS 212 AND 217 | Wed 18 Nov 18:00-19:30 | G1",
+        "lines": [
+          "  start: 18 Nov 17:30 -> 18 Nov 18:00",
+          "  end: 18 Nov 19:00 -> 18 Nov 19:30"
+        ]
+      }
+    ]
   }
 ]
