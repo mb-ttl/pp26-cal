@@ -1111,5 +1111,34 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-17T14:01:00+00:00",
+    "added": [
+      "Committee 6 Ad hoc on Resolution 5 | Wed 18 Nov 18:00-19:30 | G4"
+    ],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "Committee 5 Ad Hoc Group on harmful interference | Wed 18 Nov 09:30-10:45 | A - Plenary",
+        "lines": [
+          "  name: 'Committee 5 Ad Hoc Group on Harmful Interference' -> 'Committee 5 Ad Hoc Group on harmful interference'",
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0050/en'"
+        ]
+      },
+      {
+        "heading": "Committee 5 Ad hoc on Resolution 186, 218, DNR Space 2030, Lunar, LEO | Wed 18 Nov 16:00-17:15 | A - Plenary",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0080/en'"
+        ]
+      },
+      {
+        "heading": "COM5 AHG on frequency assignments and satellite issues | Wed 18 Nov 17:30-18:45 | A - Plenary",
+        "lines": [
+          "  name: 'COM5 AHG on Frequency assignments and satellite issues' -> 'COM5 AHG on frequency assignments and satellite issues'",
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0060/en'"
+        ]
+      }
+    ]
   }
 ]
