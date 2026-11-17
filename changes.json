@@ -850,5 +850,20 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-17T08:00:57+00:00",
+    "added": [
+      "Committee 5 Ad hoc Group on Resolution 2 – WTPF | Tue 17 Nov 17:30-19:00 | G2"
+    ],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "Committee 5 Ad Hoc Group on Harmful Interference | Tue 17 Nov 16:00-17:15 | D",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0050/en'"
+        ]
+      }
+    ]
   }
 ]
