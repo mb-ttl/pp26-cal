@@ -1313,5 +1313,18 @@
     ],
     "removed": [],
     "changed": []
+  },
+  {
+    "checked_utc": "2026-11-17T17:01:01+00:00",
+    "added": [],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "Committee 5 Ad hoc Group on Resolution 136 and 182 | Tue 17 Nov 18:00-20:30 | F2",
+        "lines": [
+          "  end: 17 Nov 20:00 -> 17 Nov 20:30"
+        ]
+      }
+    ]
   }
 ]
