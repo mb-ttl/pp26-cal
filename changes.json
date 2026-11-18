@@ -2017,5 +2017,18 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-18T18:30:54+00:00",
+    "added": [],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "WG-PL: Ad Hoc Group on WSIS (Res. 131, 140) | Thu 19 Nov 08:30-11:30 | G4",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0063/en'"
+        ]
+      }
+    ]
   }
 ]
