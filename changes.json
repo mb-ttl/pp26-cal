@@ -1655,5 +1655,20 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-18T09:15:36+00:00",
+    "added": [
+      "COM5 AHG on Resolution 136 and 182 | Thu 19 Nov 17:30-20:30 | F3"
+    ],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "WG-PL | Wed 18 Nov 16:00-17:30 | B",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-ADM-0012/en'"
+        ]
+      }
+    ]
   }
 ]
