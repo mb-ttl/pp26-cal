@@ -1976,5 +1976,20 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-18T17:45:32+00:00",
+    "added": [
+      "COM5 Informal Consultation on Harmful interference | Thu 19 Nov 13:00-14:00 | G1"
+    ],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "COM5 AHG on Space issues (Res. 218) | Thu 19 Nov 11:00-12:30 | B",
+        "lines": [
+          "  name: 'COM5 AHG on Space Issues' -> 'COM5 AHG on Space issues (Res. 218)'"
+        ]
+      }
+    ]
   }
 ]
