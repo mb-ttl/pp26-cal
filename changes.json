@@ -1394,5 +1394,22 @@
     ],
     "removed": [],
     "changed": []
+  },
+  {
+    "checked_utc": "2026-11-18T05:15:30+00:00",
+    "added": [
+      "Informal consultation on Resolution 203 | Wed 18 Nov 14:30-16:30 | Suite 2E",
+      "COMMITTEE 6 Ad-Hoc Group on Resolution 71 | Thu 19 Nov 14:00-16:00 | G4",
+      "COMMITTEE 6 Ad-Hoc Group on Resolution 71 | Fri 20 Nov 14:00-16:00 | G4"
+    ],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "COM 5 Informal drafting ITU-R Modernization and enhanced management of limited resources | Wed 18 Nov 11:00-12:30 | G1",
+        "lines": [
+          "  room: 'Suite 1B' -> 'G1 (Hall 3)'"
+        ]
+      }
+    ]
   }
 ]
