@@ -1570,5 +1570,39 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-18T08:15:33+00:00",
+    "added": [
+      "Informal Consultation on draft new resolutions on ICTs and armed conflicts | Wed 18 Nov 15:00-16:00 | G2",
+      "WG-PL: Ad Hoc Group on WSIS (Res. 131, 140) | Thu 19 Nov 08:00-11:30 | G4",
+      "WG-PL: Ad Hoc Group on Cybersecurity | Thu 19 Nov 08:30-12:30 | C",
+      "WG-PL: Ad Hoc Group on AI | Thu 19 Nov 11:30-15:30 | D",
+      "WG-PL: Ad Hoc Group on Internet related resolutions | Thu 19 Nov 13:00-16:00 | C",
+      "WG-PL: Ad Hoc Group on Digital inclusion ( Res. 70, 198, 175) | Thu 19 Nov 15:00-18:00 | F2",
+      "WG-PL: Ad Hoc Group on WSIS ( Res. 131, 140) | Thu 19 Nov 16:00-17:30 | G3",
+      "WG-PL: Ad Hoc Group on Resilience | Thu 19 Nov 17:30-20:30 | D",
+      "WG-PL: Ad Hoc Group on Network related resolutions | Thu 19 Nov 18:00-21:00 | C",
+      "WG-PL: Ad Hoc Group on WSIS | Fri 20 Nov 08:00-11:00 | G4",
+      "WG-PL: Ad Hoc Group on Cybersecurity | Fri 20 Nov 09:30-12:30 | E",
+      "WG-PL: Ad Hoc Group on Internet related resolutions | Fri 20 Nov 11:30-14:30 | D",
+      "WG-PL: Ad Hoc Group on Resilience | Fri 20 Nov 16:00-18:00 | E",
+      "WG-PL: Ad Hoc Group on AI | Fri 20 Nov 18:00-21:00 | E",
+      "WG-PL: Ad Hoc Group on Digital Inclusion | Fri 20 Nov 18:00-19:30 | F1",
+      "WG-PL: Ad Hoc Group on AI | Sat 21 Nov 08:00-11:00 | E",
+      "WG-PL: Ad Hoc Group on Resilience | Sat 21 Nov 11:00-14:00 | E",
+      "WG-PL: Ad Hoc Group on Internet related resolutions | Sat 21 Nov 14:00-18:30 | E",
+      "WG-PL: Ad Hoc Group on Cybersecurity | Sat 21 Nov 17:00-21:00 | D"
+    ],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "WG-PL: Ad Hoc Group on Network related resolutions | Wed 18 Nov 12:30-14:30 | F3",
+        "lines": [
+          "  start: 18 Nov 12:00 -> 18 Nov 12:30",
+          "  end: 18 Nov 14:00 -> 18 Nov 14:30"
+        ]
+      }
+    ]
   }
 ]
