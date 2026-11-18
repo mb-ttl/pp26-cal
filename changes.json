@@ -1691,5 +1691,24 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-18T09:45:33+00:00",
+    "added": [],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "WG-PL: Ad Hoc Group on Internet related resolutions | Wed 18 Nov 11:30-15:00 | C",
+        "lines": [
+          "  end: 18 Nov 14:00 -> 18 Nov 15:00"
+        ]
+      },
+      {
+        "heading": "Committee 6 Ad hoc on Resolution 5 and draft new resolution on enhancing the cost-efficiency of hosting ITU conferences, assemblies and meetings | Wed 18 Nov 18:00-19:30 | G4",
+        "lines": [
+          "  name: 'Committee 6 Ad hoc Group on Resolution 5' -> 'Committee 6 Ad hoc on Resolution 5 and draft new resolution on enhancing the cost-efficiency of hosting ITU conferences, assemblies and meetings'"
+        ]
+      }
+    ]
   }
 ]
