@@ -1959,5 +1959,22 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-18T17:30:48+00:00",
+    "added": [
+      "COM5 AHG on Space Issues | Thu 19 Nov 11:00-12:30 | B",
+      "COM5 AHG on Space Issues | Thu 19 Nov 14:30-15:45 | B"
+    ],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "COM5 informal meeting on Res. 186 | Thu 19 Nov 12:30-14:00 | Suite 1D",
+        "lines": [
+          "  start: 19 Nov 12:00 -> 19 Nov 12:30",
+          "  end: 19 Nov 13:30 -> 19 Nov 14:00"
+        ]
+      }
+    ]
   }
 ]
