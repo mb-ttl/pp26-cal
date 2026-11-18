@@ -1812,5 +1812,18 @@
     ],
     "removed": [],
     "changed": []
+  },
+  {
+    "checked_utc": "2026-11-18T14:15:36+00:00",
+    "added": [],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "WG-PL: Informal Consultation on Resolutions 139 | Thu 19 Nov 08:00-11:00 | Suite 4A",
+        "lines": [
+          "  name: 'WG-PL: Informal Consultation on Resolutions 137 and 139' -> 'WG-PL: Informal Consultation on Resolutions 139'"
+        ]
+      }
+    ]
   }
 ]
