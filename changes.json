@@ -1636,5 +1636,24 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-18T09:00:58+00:00",
+    "added": [],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "COM5 AHG on Space Issues (PNR LEO coordination) | Wed 18 Nov 16:00-17:15 | A - Plenary",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0080/en'"
+        ]
+      },
+      {
+        "heading": "COM5 AHG on Space Issues (Res. 186) | Wed 18 Nov 17:30-18:45 | A - Plenary",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0080/en'"
+        ]
+      }
+    ]
   }
 ]
