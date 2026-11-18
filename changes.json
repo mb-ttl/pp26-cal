@@ -1760,5 +1760,13 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-18T12:30:47+00:00",
+    "added": [
+      "COM5 AHG on Satellite and Frequency Assignments | Thu 19 Nov 16:00-17:15 | B"
+    ],
+    "removed": [],
+    "changed": []
   }
 ]
