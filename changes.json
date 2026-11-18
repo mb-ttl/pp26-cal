@@ -1928,5 +1928,36 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-18T17:15:33+00:00",
+    "added": [
+      "COM5 informal meeting on Res. 186 | Thu 19 Nov 12:00-13:30 | Suite 1D",
+      "WG-PL: informal consultations on Resolution 203 | Thu 19 Nov 15:00-16:30 | Suite 1B"
+    ],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "COM6 AHG on Dec 11, Res 148 & 208 and draft new resolution on Term of office for elected officials | Thu 19 Nov 08:00-12:30 | F2",
+        "lines": [
+          "  start: 19 Nov 09:30 -> 19 Nov 08:00",
+          "  documentNumber: 'S26-PP-261109-DL-0053' -> ''"
+        ]
+      },
+      {
+        "heading": "COMMITTEE 6 AD-HOC GROUP ON DEC.5 | Thu 19 Nov 08:00-11:00 | F1",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0067/en'"
+        ]
+      },
+      {
+        "heading": "WG-PL: Informal Consultation on Res. 131 | Thu 19 Nov 16:00-18:00 | G4",
+        "lines": [
+          "  name: 'WG-PL: Ad Hoc Group on WSIS ( Res. 131, 140)' -> 'WG-PL: Informal Consultation on Res. 131'",
+          "  end: 19 Nov 17:30 -> 19 Nov 18:00",
+          "  room: 'G3 (Hall 4)' -> 'G4 (Hall 4)'"
+        ]
+      }
+    ]
   }
 ]
