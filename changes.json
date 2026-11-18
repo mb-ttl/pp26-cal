@@ -1846,5 +1846,35 @@
     ],
     "removed": [],
     "changed": []
+  },
+  {
+    "checked_utc": "2026-11-18T15:15:36+00:00",
+    "added": [
+      "COM5 informal consultations on Res. 167 Strengthening and developing ITU capabilities for electronic meetings and means to advance the work of the Union | Thu 19 Nov 14:30-15:50 | G3",
+      "WG-PL : Ad Hoc Group on Digital inclusion | Fri 20 Nov 09:30-11:00 | G2"
+    ],
+    "removed": [
+      "Committee 6 | Thu 19 Nov 09:30-11:00 | B"
+    ],
+    "changed": [
+      {
+        "heading": "Plenary | Thu 19 Nov 14:30-17:30 | A - Plenary",
+        "lines": [
+          "  start: 19 Nov 16:00 -> 19 Nov 14:30"
+        ]
+      },
+      {
+        "heading": "WG-PL: Ad Hoc Group on Resilience | Fri 20 Nov 16:00-18:00 | D",
+        "lines": [
+          "  room: 'E (Hall 3)' -> 'D (Hall 2)'"
+        ]
+      },
+      {
+        "heading": "WG-PL: Ad Hoc Group on AI | Fri 20 Nov 18:00-21:00 | D",
+        "lines": [
+          "  room: 'E (Hall 3)' -> 'D (Hall 2)'"
+        ]
+      }
+    ]
   }
 ]
