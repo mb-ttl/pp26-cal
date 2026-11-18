@@ -1473,5 +1473,18 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-18T06:45:34+00:00",
+    "added": [],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "Committee 6 Ad hoc Group on Resolutions 212 and 217 | Wed 18 Nov 18:00-19:30 | C",
+        "lines": [
+          "  start: 18 Nov 17:00 -> 18 Nov 18:00"
+        ]
+      }
+    ]
   }
 ]
