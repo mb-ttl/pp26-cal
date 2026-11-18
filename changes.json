@@ -1411,5 +1411,18 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-18T05:30:45+00:00",
+    "added": [],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "COMMITTEE 6 AD HOC GROUP ON RESOLUTION 48 | Wed 18 Nov 12:30-14:00 | G5",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0025/en'"
+        ]
+      }
+    ]
   }
 ]
