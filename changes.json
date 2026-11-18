@@ -1517,5 +1517,20 @@
     ],
     "removed": [],
     "changed": []
+  },
+  {
+    "checked_utc": "2026-11-18T07:45:33+00:00",
+    "added": [
+      "WG-PL: Informal consultation on Resolution 140 | Wed 18 Nov 12:30-14:30 | Suite 2C"
+    ],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "WG-PL: Ad Hoc Group on WSIS | Wed 18 Nov 17:30-20:30 | G1",
+        "lines": [
+          "  start: 18 Nov 18:30 -> 18 Nov 17:30"
+        ]
+      }
+    ]
   }
 ]
