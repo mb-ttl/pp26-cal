@@ -1424,5 +1424,25 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-18T05:45:32+00:00",
+    "added": [],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "Committee 6 Ad hoc Group on Resolutions 212 and 217 | Wed 18 Nov 17:00-19:30 | C",
+        "lines": [
+          "  start: 18 Nov 18:00 -> 18 Nov 17:00",
+          "  room: 'G1 (Hall 3)' -> 'C (Hall 2)'"
+        ]
+      },
+      {
+        "heading": "WG-PL: Ad Hoc Group on Digital inclusion ( Res. 70, 198, 175) | Wed 18 Nov 18:00-21:00 | F2",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0071/en'"
+        ]
+      }
+    ]
   }
 ]
