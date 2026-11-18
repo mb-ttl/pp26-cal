@@ -1604,5 +1604,22 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-18T08:30:50+00:00",
+    "added": [],
+    "removed": [
+      "COM5 AHG on Satellite and Frequency Assignments | Thu 19 Nov 09:30-11:00 | D"
+    ],
+    "changed": [
+      {
+        "heading": "WG-PL | Wed 18 Nov 16:00-17:30 | B",
+        "lines": [
+          "  name: 'Committee 5 followed by WG-PL' -> 'WG-PL'",
+          "  start: 18 Nov 14:30 -> 18 Nov 16:00",
+          "  committee: 'COM 5' -> 'WG-PL'"
+        ]
+      }
+    ]
   }
 ]
