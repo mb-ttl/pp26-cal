@@ -1915,5 +1915,18 @@
     ],
     "removed": [],
     "changed": []
+  },
+  {
+    "checked_utc": "2026-11-18T17:01:00+00:00",
+    "added": [],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "COM6 AHG on Dec 11, Res 148 & 208 and draft new resolution on Term of office for elected officials | Thu 19 Nov 09:30-12:30 | F2",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0053'"
+        ]
+      }
+    ]
   }
 ]
