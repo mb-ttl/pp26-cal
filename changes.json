@@ -1458,5 +1458,20 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-18T06:30:47+00:00",
+    "added": [],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "WG-PL: Ad Hoc Group on Network related resolutions | Wed 18 Nov 12:00-14:00 | F3",
+        "lines": [
+          "  start: 18 Nov 12:30 -> 18 Nov 12:00",
+          "  end: 18 Nov 14:30 -> 18 Nov 14:00",
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0072/en'"
+        ]
+      }
+    ]
   }
 ]
