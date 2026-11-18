@@ -1621,5 +1621,20 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-18T08:45:33+00:00",
+    "added": [
+      "WG-PL Informal Consultation on Resolution 197 | Thu 19 Nov 09:00-12:00 | Suite 3D"
+    ],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "Committee 6 Ad-Hoc Group on Resolution 71 | Wed 18 Nov 18:00-20:30 | G3",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0024/en'"
+        ]
+      }
+    ]
   }
 ]
