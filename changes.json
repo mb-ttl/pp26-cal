@@ -1710,5 +1710,18 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-18T10:30:47+00:00",
+    "added": [],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "WG-PL: Ad Hoc Group on AI | Wed 18 Nov 14:00-16:00 | D",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0029/en'"
+        ]
+      }
+    ]
   }
 ]
