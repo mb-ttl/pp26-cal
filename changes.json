@@ -1876,5 +1876,27 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-18T15:31:02+00:00",
+    "added": [
+      "COMMITTEE 6 AD-HOC GROUP ON DEC.5 | Thu 19 Nov 18:00-20:30 | F2"
+    ],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "COMMITTEE 6 AD-HOC GROUP ON DEC.5 | Thu 19 Nov 08:00-11:00 | F1",
+        "lines": [
+          "  end: 19 Nov 09:30 -> 19 Nov 11:00",
+          "  room: 'F3 (Hall 4)' -> 'F1 (Hall 3)'"
+        ]
+      },
+      {
+        "heading": "WG-PL: Ad Hoc Group on AI | Thu 19 Nov 12:30-15:30 | D",
+        "lines": [
+          "  start: 19 Nov 11:30 -> 19 Nov 12:30"
+        ]
+      }
+    ]
   }
 ]
