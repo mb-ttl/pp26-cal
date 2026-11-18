@@ -1670,5 +1670,26 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-18T09:30:48+00:00",
+    "added": [
+      "COM5 Informal Consultation on frequency assignments and satellite issues | Wed 18 Nov 15:00-16:00 | G5"
+    ],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "WG-PL: Ad Hoc Group on WSIS | Wed 18 Nov 17:30-20:30 | G1",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0063/en'"
+        ]
+      },
+      {
+        "heading": "Committee 5 Ad hoc Group on Resolution 188 and Resolution 189 | Thu 19 Nov 09:30-11:00 | F3",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0014/en'"
+        ]
+      }
+    ]
   }
 ]
