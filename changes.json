@@ -2394,5 +2394,36 @@
     ],
     "removed": [],
     "changed": []
+  },
+  {
+    "checked_utc": "2026-11-19T14:31:01+00:00",
+    "added": [],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "WG-PL: Informal Consultation on Resolution 130 on awareness gender and vulnerable groups | Thu 19 Nov 16:30-17:30 | Suite 4C",
+        "lines": [
+          "  name: 'WG-PL: Informal Consultation on awareness. gender and vulnerable groups' -> 'WG-PL: Informal Consultation on Resolution 130 on awareness gender and vulnerable groups'"
+        ]
+      },
+      {
+        "heading": "WG-PL: Informal Consultation on Resolution 130 on References to AI and Quantum | Thu 19 Nov 17:30-18:30 | Suite 4C",
+        "lines": [
+          "  name: 'WG-PL: Informal Consultation on References to AI and Quantum' -> 'WG-PL: Informal Consultation on Resolution 130 on References to AI and Quantum'"
+        ]
+      },
+      {
+        "heading": "WG-PL: Informal Consultation on Resolution 130 on Streamlining | Thu 19 Nov 19:00-20:00 | Suite 2C",
+        "lines": [
+          "  name: 'WG-PL: Informal Consultation on Streamlining' -> 'WG-PL: Informal Consultation on Resolution 130 on Streamlining'"
+        ]
+      },
+      {
+        "heading": "COM6 AHG on Dec 11, Res 148 & 208 and draft new resolution on Term of office for elected officials | Fri 20 Nov 17:30-19:00 | F3",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0053'"
+        ]
+      }
+    ]
   }
 ]
