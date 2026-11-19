@@ -2193,5 +2193,18 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-19T09:15:32+00:00",
+    "added": [],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "WG-PL: Ad Hoc Group on Digital inclusion ( Res. 70, 198, 175) | Thu 19 Nov 15:00-18:00 | F2",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0071'"
+        ]
+      }
+    ]
   }
 ]
