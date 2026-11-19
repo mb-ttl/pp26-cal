@@ -2535,5 +2535,17 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-19T23:45:30+00:00",
+    "added": [
+      "WG-PL: Informal Consultation on Child Online Protection | Fri 20 Nov 08:30-09:30 | Suite 3C",
+      " WG-PL: Informal Consultation on Resilience | Fri 20 Nov 10:30-11:30 | Suite 3C",
+      " WG-PL: Ad Hoc Group on Network related resolutions | Fri 20 Nov 11:00-13:30 | C"
+    ],
+    "removed": [
+      "COMMITTEE 6 AD HOC GROUP ON RESOLUTIONS 212 AND 217 | Fri 20 Nov 10:00-12:00 | F1"
+    ],
+    "changed": []
   }
 ]
