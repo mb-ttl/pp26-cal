@@ -2371,5 +2371,20 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-19T14:00:59+00:00",
+    "added": [
+      "COM5 informal consultations on Res. 167 Strengthening and developing ITU capabilities for electronic meetings and means to advance the work of the Union | Fri 20 Nov 14:30-15:50 | G3"
+    ],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "WG-PL: Ad Hoc Group on Network related resolutions | Thu 19 Nov 18:00-21:00 | C",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0072'"
+        ]
+      }
+    ]
   }
 ]
