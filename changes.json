@@ -2166,5 +2166,18 @@
       "COM5 AHG on Res. 146 | Sat 21 Nov 14:00-17:00 | F1"
     ],
     "changed": []
+  },
+  {
+    "checked_utc": "2026-11-19T08:15:40+00:00",
+    "added": [],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "WG-PL: Ad Hoc Group on Resilience | Thu 19 Nov 17:30-20:30 | D",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0085'"
+        ]
+      }
+    ]
   }
 ]
