@@ -2433,5 +2433,25 @@
     ],
     "removed": [],
     "changed": []
+  },
+  {
+    "checked_utc": "2026-11-19T15:01:16+00:00",
+    "added": [],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "WG-PL: Ad Hoc Group on Resilience | Thu 19 Nov 17:30-22:00 | D",
+        "lines": [
+          "  end: 19 Nov 20:30 -> 19 Nov 22:00"
+        ]
+      },
+      {
+        "heading": "Committee 4 | Fri 20 Nov 10:30-12:30 | H",
+        "lines": [
+          "  start: 20 Nov 11:30 -> 20 Nov 10:30",
+          "  end: 20 Nov 13:30 -> 20 Nov 12:30"
+        ]
+      }
+    ]
   }
 ]
