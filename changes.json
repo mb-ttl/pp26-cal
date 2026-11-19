@@ -2483,5 +2483,18 @@
     ],
     "removed": [],
     "changed": []
+  },
+  {
+    "checked_utc": "2026-11-19T17:01:03+00:00",
+    "added": [],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "COM5 Ad Hoc on ITU-R modernization and enhancing the role of ITU in the regulation of the limited radio-frequency spectrum and satellite orbit resources | Fri 20 Nov 08:00-09:20 | E",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0060/en'"
+        ]
+      }
+    ]
   }
 ]
