@@ -2092,5 +2092,29 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-19T06:00:55+00:00",
+    "added": [
+      "WG-PL: Informal Consultation on Resilience | Thu 19 Nov 15:00-17:00 | Suite 2E",
+      "COMMITTEE 6 AD HOC GROUP ON RESOLUTIONS 212 AND 217 | Fri 20 Nov 10:00-12:00 | F1",
+      "COMMITTEE 6 AD HOC GROUP ON RESOLUTIONS 212 AND 217 | Fri 20 Nov 15:00-17:00 | F1"
+    ],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "COM6 AHG on Dec 11, Res 148 & 208 and draft new resolution on Term of office for elected officials | Thu 19 Nov 08:00-12:30 | F2",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0053/en'"
+        ]
+      },
+      {
+        "heading": "COMMITTEE 6 AD HOC GROUP ON RESOLUTIONS 212 AND 217 | Thu 19 Nov 17:30-19:30 | F1",
+        "lines": [
+          "  end: 19 Nov 19:00 -> 19 Nov 19:30",
+          "  room: 'G1 (Hall 3)' -> 'F1 (Hall 3)'"
+        ]
+      }
+    ]
   }
 ]
