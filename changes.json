@@ -2250,5 +2250,24 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-19T11:30:50+00:00",
+    "added": [],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "COM5 AHG on Space Issues (DNR, CEPT) | Thu 19 Nov 14:30-15:45 | B",
+        "lines": [
+          "  name: 'COM5 AHG on Space Issues' -> 'COM5 AHG on Space Issues (DNR, CEPT)'"
+        ]
+      },
+      {
+        "heading": "COMMITTEE 6 AD-HOC GROUP ON DEC.5 | Thu 19 Nov 18:00-20:30 | F2",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0067/en'"
+        ]
+      }
+    ]
   }
 ]
