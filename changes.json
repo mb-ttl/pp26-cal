@@ -2142,5 +2142,21 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-19T07:01:05+00:00",
+    "added": [
+      "COM5 informal consultation on Res 182 | Thu 19 Nov 10:30-12:30 | Suite 3C",
+      "COM5 informal consultation on Res 182 | Thu 19 Nov 14:30-17:30 | Suite 2A"
+    ],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "COM5 AHG on Resolution 136 and 182 | Thu 19 Nov 17:30-20:30 | F3",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0047/en'"
+        ]
+      }
+    ]
   }
 ]
