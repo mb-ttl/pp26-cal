@@ -2358,5 +2358,18 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-19T13:45:39+00:00",
+    "added": [],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "COM5 AHG on Harmful interference | Thu 19 Nov 19:00-20:30 | E",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0060/en'"
+        ]
+      }
+    ]
   }
 ]
