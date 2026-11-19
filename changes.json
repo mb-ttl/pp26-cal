@@ -2228,5 +2228,27 @@
     ],
     "removed": [],
     "changed": []
+  },
+  {
+    "checked_utc": "2026-11-19T11:15:31+00:00",
+    "added": [
+      "WG-PL: Informal Consultation on Resolution 206 | Thu 19 Nov 16:00-17:30 | Suite 1A",
+      "WG-PL: Informal Consultation on Resolution 180 | Thu 19 Nov 19:30-21:00 | G3"
+    ],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "Plenary, Swearing-in for Newly-Elected and Appreciation for Outgoing Elected Officials | Thu 19 Nov 14:30-17:30 | A - Plenary",
+        "lines": [
+          "  name: 'Plenary' -> 'Plenary, Swearing-in for Newly-Elected and Appreciation for Outgoing Elected Officials'"
+        ]
+      },
+      {
+        "heading": "COMMITTEE 6 AD HOC GROUP ON RESOLUTIONS 212 AND 217 | Thu 19 Nov 17:30-19:30 | F1",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0079/en'"
+        ]
+      }
+    ]
   }
 ]
