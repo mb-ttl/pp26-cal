@@ -2116,5 +2116,31 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-19T06:30:48+00:00",
+    "added": [
+      "WG-PL: Informal Consultation on Global Mechanism | Thu 19 Nov 13:00-14:00 | Suite 3A",
+      "WG-PL: Informal Consultation on Resolutions 174 | Thu 19 Nov 14:00-15:30 | Suite 3A",
+      "WG-PL: Informal Consultation on resource/partnerships | Thu 19 Nov 15:30-16:30 | Suite 4C",
+      "WG-PL: Informal Consultation on awareness. gender and vulnerable groups | Thu 19 Nov 16:30-17:30 | Suite 4C",
+      "WG-PL: Informal Consultation on References to AI and Quantum | Thu 19 Nov 17:30-18:30 | Suite 4C",
+      "WG-PL: Informal Consultation on Streamlining | Thu 19 Nov 19:00-20:00 | Suite 2C"
+    ],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "COM5 AHG on Space issues (Res. 218) | Thu 19 Nov 11:00-12:30 | B",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0080/en'"
+        ]
+      },
+      {
+        "heading": "COM5 AHG Frequency Assignments and Satellite Issues | Thu 19 Nov 16:00-17:15 | B",
+        "lines": [
+          "  name: 'COM5 AHG on Satellite and Frequency Assignments' -> 'COM5 AHG Frequency Assignments and Satellite Issues'"
+        ]
+      }
+    ]
   }
 ]
