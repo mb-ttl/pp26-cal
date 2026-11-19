@@ -2077,5 +2077,20 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-19T05:45:30+00:00",
+    "added": [
+      "COM5 informal consultation on Res 182 | Thu 19 Nov 10:00-17:00 | G5"
+    ],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "COMMITTEE 6 AD-HOC GROUP ON RES. 25 , 157 and 30 | Thu 19 Nov 14:30-17:30 | F1",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0064/en'"
+        ]
+      }
+    ]
   }
 ]
