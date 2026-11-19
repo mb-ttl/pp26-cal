@@ -2061,5 +2061,21 @@
     ],
     "removed": [],
     "changed": []
+  },
+  {
+    "checked_utc": "2026-11-19T05:30:42+00:00",
+    "added": [
+      "COM5 AHG on Res. 196 | Thu 19 Nov 14:00-16:00 | F3",
+      "Committee 6 Ad hoc on Resolution 5 and draft new resolution on enhancing the cost-efficiency of hosting ITU conferences, assemblies and meetings | Fri 20 Nov 16:15-18:15 | G4"
+    ],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "COM5 Ad Hoc on ITU-R modernization and enhancing the role of ITU in the regulation of the limited radio-frequency spectrum and satellite orbit resources | Fri 20 Nov 08:00-09:20 | E",
+        "lines": [
+          "  name: 'Ad hoc on ITU modernization and increasing the role of ITU in managing limited resources' -> 'COM5 Ad Hoc on ITU-R modernization and enhancing the role of ITU in the regulation of the limited radio-frequency spectrum and satellite orbit resources'"
+        ]
+      }
+    ]
   }
 ]
