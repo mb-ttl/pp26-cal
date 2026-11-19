@@ -2179,5 +2179,19 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-19T08:45:31+00:00",
+    "added": [],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "WG-PL: Ad Hoc meeting on Resolution 140 (WSIS) | Thu 19 Nov 17:00-20:00 | G2",
+        "lines": [
+          "  name: 'WG-PL an Ad hoc meeting on Resolution 140 (WSIS)' -> 'WG-PL: Ad Hoc meeting on Resolution 140 (WSIS)'",
+          "  start: 19 Nov 18:00 -> 19 Nov 17:00"
+        ]
+      }
+    ]
   }
 ]
