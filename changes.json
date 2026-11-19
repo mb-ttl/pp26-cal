@@ -2302,5 +2302,22 @@
     ],
     "removed": [],
     "changed": []
+  },
+  {
+    "checked_utc": "2026-11-19T12:45:46+00:00",
+    "added": [
+      "Committee 4 | Fri 20 Nov 11:30-13:30 | H"
+    ],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "COMMITTEE 6 Ad-Hoc Group on Resolution 71 | Fri 20 Nov 16:00-18:00 | G5",
+        "lines": [
+          "  start: 20 Nov 14:00 -> 20 Nov 16:00",
+          "  end: 20 Nov 16:00 -> 20 Nov 18:00",
+          "  room: 'G4 (Hall 4)' -> 'G5 (Hall 4)'"
+        ]
+      }
+    ]
   }
 ]
