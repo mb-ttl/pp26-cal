@@ -2269,5 +2269,30 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-19T11:45:34+00:00",
+    "added": [],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "WG-PL: Ad Hoc Group on AI | Thu 19 Nov 12:30-16:30 | D",
+        "lines": [
+          "  end: 19 Nov 15:30 -> 19 Nov 16:30"
+        ]
+      },
+      {
+        "heading": "COM5 AHG on Space Issues (DNR, CEPT) | Thu 19 Nov 14:30-15:45 | B",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0080/en'"
+        ]
+      },
+      {
+        "heading": "COM5 AHG Frequency Assignments and Satellite Issues | Thu 19 Nov 16:00-17:15 | B",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0051/en'"
+        ]
+      }
+    ]
   }
 ]
