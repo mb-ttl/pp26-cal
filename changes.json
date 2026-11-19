@@ -2038,5 +2038,18 @@
       "COM5 Informal Consultation on Harmful interference | Thu 19 Nov 13:00-14:00 | G1"
     ],
     "changed": []
+  },
+  {
+    "checked_utc": "2026-11-19T05:00:59+00:00",
+    "added": [],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "Plenary | Thu 19 Nov 14:30-17:30 | A - Plenary",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-ADM-0026/en'"
+        ]
+      }
+    ]
   }
 ]
