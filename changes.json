@@ -2339,5 +2339,24 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-19T13:30:46+00:00",
+    "added": [],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "WG-PL: Ad Hoc meeting on Resolution 140 (WSIS) | Thu 19 Nov 17:30-19:00 | G2",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0063/en'"
+        ]
+      },
+      {
+        "heading": "COMMITTEE 6 Ad hoc group on resolution 91-cost recovery for some itu products and services | Fri 20 Nov 17:30-19:00 | F2",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0069/en'"
+        ]
+      }
+    ]
   }
 ]
