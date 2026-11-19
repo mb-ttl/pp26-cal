@@ -2051,5 +2051,15 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-19T05:15:31+00:00",
+    "added": [
+      "COM5 AHG on Res. 176 | Fri 20 Nov 09:00-10:30 | G1",
+      "COM5 Informal Consultation to consolidate MOD to Res. 146 | Fri 20 Nov 14:00-16:00 | G2",
+      "COM5 AHG on Res. 146 | Fri 20 Nov 18:00-20:00 | C"
+    ],
+    "removed": [],
+    "changed": []
   }
 ]
