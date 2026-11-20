@@ -3018,5 +3018,25 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-20T13:15:34+00:00",
+    "added": [],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "COM5 - Informal meeting on Resolution 86 | Fri 20 Nov 16:30-18:00 | D",
+        "lines": [
+          "  room: 'C (Hall 2)' -> 'D (Hall 2)'"
+        ]
+      },
+      {
+        "heading": "COM5 AHG on Res. 136 and 182 | Fri 20 Nov 17:30-20:30 | G2",
+        "lines": [
+          "  end: 20 Nov 21:30 -> 20 Nov 20:30",
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0047/en'"
+        ]
+      }
+    ]
   }
 ]
