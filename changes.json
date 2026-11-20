@@ -2863,5 +2863,33 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-20T10:30:50+00:00",
+    "added": [
+      "Informal Consultation Resolution 58 | Sat 21 Nov 11:00-12:30 | C",
+      " WG-PL: Ad Hoc Group on Network related resolutions | Sat 21 Nov 13:00-15:00 | D"
+    ],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "COM5 Informal meeting on Harmful Interference | Sat 21 Nov 15:30-16:45 | F1",
+        "lines": [
+          "  name: 'Informal consultation - Harmful Interference' -> 'COM5 Informal meeting on Harmful Interference'"
+        ]
+      },
+      {
+        "heading": "COM5 Informal meeting on Harmful Interference | Sat 21 Nov 17:00-18:15 | F1",
+        "lines": [
+          "  name: 'Informal consultation - Harmful Interference' -> 'COM5 Informal meeting on Harmful Interference'"
+        ]
+      },
+      {
+        "heading": "COM5 Informal meeting on Harmful Interference (wrap-up) | Sat 21 Nov 18:30-19:45 | F1",
+        "lines": [
+          "  name: 'Informal consultation - Harmful Interference (wrap-up)' -> 'COM5 Informal meeting on Harmful Interference (wrap-up)'"
+        ]
+      }
+    ]
   }
 ]
