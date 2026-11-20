@@ -3143,5 +3143,30 @@
     ],
     "removed": [],
     "changed": []
+  },
+  {
+    "checked_utc": "2026-11-20T17:15:40+00:00",
+    "added": [],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "AD-HOC GROUP ON RES. 25 , 157 and 30 | Sat 21 Nov 09:00-12:00 | F1",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0064/en'"
+        ]
+      },
+      {
+        "heading": "Committee 6 Ad hoc on Resolution 5 and draft new resolution on enhancing the cost-efficiency of hosting ITU conferences, assemblies and meetings | Sat 21 Nov 13:00-15:00 | G3",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0096/en'"
+        ]
+      },
+      {
+        "heading": "COM 6 Ad hoc – Resolution 25/157/30 | Sat 21 Nov 15:00-17:00 | G1",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0064/en'"
+        ]
+      }
+    ]
   }
 ]
