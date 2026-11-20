@@ -3038,5 +3038,18 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-20T13:45:37+00:00",
+    "added": [],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "COM5 AHG on Res. 136 and 182 | Fri 20 Nov 17:30-21:30 | G2",
+        "lines": [
+          "  end: 20 Nov 20:30 -> 20 Nov 21:30"
+        ]
+      }
+    ]
   }
 ]
