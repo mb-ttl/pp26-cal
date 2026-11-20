@@ -3111,5 +3111,20 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-20T15:15:37+00:00",
+    "added": [],
+    "removed": [
+      "COMMITTEE 6 AD HOC GROUP ON RESOLUTIONS 212 AND 217 | Mon 23 Nov 10:00-12:00 | F1"
+    ],
+    "changed": [
+      {
+        "heading": "COMMITTEE 6 AD HOC GROUP ON RESOLUTIONS 217 | Mon 23 Nov 15:00-17:00 | F1",
+        "lines": [
+          "  name: 'COMMITTEE 6 AD HOC GROUP ON RESOLUTIONS 212 AND 217' -> 'COMMITTEE 6 AD HOC GROUP ON RESOLUTIONS 217'"
+        ]
+      }
+    ]
   }
 ]
