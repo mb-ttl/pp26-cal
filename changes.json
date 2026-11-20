@@ -2602,5 +2602,18 @@
     ],
     "removed": [],
     "changed": []
+  },
+  {
+    "checked_utc": "2026-11-20T05:45:34+00:00",
+    "added": [],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "COMMITTEE 6 - AD-HOC GROUP ON DEC.5 | Fri 20 Nov 10:30-12:30 | F3",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0067/en'"
+        ]
+      }
+    ]
   }
 ]
