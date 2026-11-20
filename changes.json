@@ -2891,5 +2891,21 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-20T10:45:36+00:00",
+    "added": [
+      "WG-PL: Informal Consultation on Resolution 197 | Fri 20 Nov 14:00-18:00 | Suite 4E",
+      "WG-PL: Informal Consultation on Resolution 197 | Fri 20 Nov 18:00-22:00 | Suite 4E"
+    ],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "WG-PL: Ad Hoc Group on WSIS | Fri 20 Nov 16:00-18:00 | G1",
+        "lines": [
+          "  room: 'G3 (Hall 4)' -> 'G1 (Hall 3)'"
+        ]
+      }
+    ]
   }
 ]
