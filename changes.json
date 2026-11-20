@@ -2951,5 +2951,20 @@
     ],
     "removed": [],
     "changed": []
+  },
+  {
+    "checked_utc": "2026-11-20T12:00:59+00:00",
+    "added": [
+      "COM 6 Ad hoc – Resolution 25/157/30 | Sat 21 Nov 15:00-17:00 | G1"
+    ],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "COMMITTEE 6 Ad-Hoc Group on Resolution 71 | Fri 20 Nov 16:00-18:00 | G5",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0024'"
+        ]
+      }
+    ]
   }
 ]
