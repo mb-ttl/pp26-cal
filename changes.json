@@ -2907,5 +2907,22 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-20T11:01:01+00:00",
+    "added": [
+      "WG-PL: Ad Hoc Group on WSIS | Sat 21 Nov 10:30-13:30 | G4"
+    ],
+    "removed": [
+      "WG-PL: Informal Consultation on Resolution 197 | Fri 20 Nov 18:00-22:00 | Suite 4E"
+    ],
+    "changed": [
+      {
+        "heading": "Committee 3 | Mon 23 Nov 16:00-17:30 | D",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-ADM-0027'"
+        ]
+      }
+    ]
   }
 ]
