@@ -3168,5 +3168,28 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-20T19:45:35+00:00",
+    "added": [
+      "COM5 AHG on Res. 136 and Res. 182 | Sat 21 Nov 09:00-12:00 | G2",
+      "WG-PL:  Informal Consultation for the AHG on Cybersecurity: New Resolution on Spoofing | Sat 21 Nov 16:00-17:00 | G2"
+    ],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "COMMITTEE 6 Ad hoc group on resolution 91-cost recovery for some itu products and services | Sat 21 Nov 10:00-12:00 | F2",
+        "lines": [
+          "  documentNumber: '' -> 'https://www.itu.int/md/S26-PP-261109-DL-0069/en'"
+        ]
+      },
+      {
+        "heading": "WG-PL: Ad Hoc Group on Resilience | Sat 21 Nov 13:00-17:00 | E",
+        "lines": [
+          "  start: 21 Nov 11:00 -> 21 Nov 13:00",
+          "  end: 21 Nov 14:00 -> 21 Nov 17:00"
+        ]
+      }
+    ]
   }
 ]
