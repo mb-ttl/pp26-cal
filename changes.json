@@ -2758,5 +2758,27 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-20T08:00:57+00:00",
+    "added": [
+      "COM5 Informal consultations on ITU-R modernization and enhanced ITU management of spectrum and orbital resources | Sat 21 Nov 08:00-09:20 | D",
+      "Committee 6 - Informal Consultation on Resolutions 94 and 162 | Sat 21 Nov 09:00-10:00 | Suite 3D"
+    ],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "COM5 Informal meeting on Increasing the responsibility of the notifying administration - Text to the Minutes of PP-26 | Fri 20 Nov 13:30-14:30 | F3",
+        "lines": [
+          "  name: 'COM5 Informal meeting - Increasing the responsibility of the notifying administration - Text to the Minutes of PP-26' -> 'COM5 Informal meeting on Increasing the responsibility of the notifying administration - Text to the Minutes of PP-26'"
+        ]
+      },
+      {
+        "heading": "COM5 - Informal meeting on Resolution 86 | Fri 20 Nov 16:30-18:00 | C",
+        "lines": [
+          "  name: 'COM5 - Informal meeting – Resolution 86' -> 'COM5 - Informal meeting on Resolution 86'"
+        ]
+      }
+    ]
   }
 ]
