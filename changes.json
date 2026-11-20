@@ -2677,5 +2677,42 @@
       "COM5 Informal consultation on Res. 182 | Fri 20 Nov 17:30-19:00 | Suite 3C"
     ],
     "changed": []
+  },
+  {
+    "checked_utc": "2026-11-20T07:01:00+00:00",
+    "added": [],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "Committee 6 followed by Committee 5 | Fri 20 Nov 08:30-11:30 | B",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-ADM-0028'"
+        ]
+      },
+      {
+        "heading": "COMMITTEE 6 - AD-HOC GROUP ON RES. 25 , 30 and 157 | Fri 20 Nov 10:30-13:30 | F2",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0064/en'"
+        ]
+      },
+      {
+        "heading": "COM5 Informal meeting - Increasing the responsibility of the notifying administration - Text to the Minutes of PP-26 | Fri 20 Nov 13:30-14:30 | F3",
+        "lines": [
+          "  name: 'COM5 Informal consultation - Increasing the responsibility of the notifying administration - Text to the Minutes of PP-26' -> 'COM5 Informal meeting - Increasing the responsibility of the notifying administration - Text to the Minutes of PP-26'"
+        ]
+      },
+      {
+        "heading": "COMMITTEE 6 AD HOC GROUP ON RESOLUTIONS 212 AND 217 | Fri 20 Nov 15:00-17:00 | F2",
+        "lines": [
+          "  room: 'D (Hall 2)' -> 'F2 (Hall 3)'"
+        ]
+      },
+      {
+        "heading": "COM5 - Informal meeting – Resolution 86 | Fri 20 Nov 16:30-18:00 | C",
+        "lines": [
+          "  name: 'Informal consultation – Resolution 86' -> 'COM5 - Informal meeting – Resolution 86'"
+        ]
+      }
+    ]
   }
 ]
