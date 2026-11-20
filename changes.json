@@ -2966,5 +2966,30 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-20T12:15:35+00:00",
+    "added": [
+      "WG-PL: Ad Hoc Group on Internet related resolutions | Sat 21 Nov 10:00-13:00 | G4",
+      "WG-PL: Ad Hoc Group on Internet related resolutions | Sat 21 Nov 14:00-16:00 | G4"
+    ],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "COM5 AHG on Res.146 ITRs | Fri 20 Nov 16:00-18:00 | B",
+        "lines": [
+          "  start: 20 Nov 18:00 -> 20 Nov 16:00",
+          "  end: 20 Nov 20:00 -> 20 Nov 18:00",
+          "  room: 'C (Hall 2)' -> 'B (Hall 4)'"
+        ]
+      },
+      {
+        "heading": "WG-PL: Ad Hoc Group on WSIS | Sat 21 Nov 16:00-18:00 | G4",
+        "lines": [
+          "  start: 21 Nov 10:30 -> 21 Nov 16:00",
+          "  end: 21 Nov 13:30 -> 21 Nov 18:00"
+        ]
+      }
+    ]
   }
 ]
