@@ -3087,5 +3087,29 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-20T15:01:03+00:00",
+    "added": [
+      "Committee 4 | Fri 20 Nov 18:00-20:00 | Pearl & Sidra"
+    ],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "WG-PL: Ad Hoc Group on Cybersecurity | Sat 21 Nov 09:00-13:00 | C",
+        "lines": [
+          "  room: 'F3 (Hall 4)' -> 'C (Hall 2)'"
+        ]
+      },
+      {
+        "heading": " WG-PL: Ad Hoc Group on AI (Resolution 214) | Sat 21 Nov 11:00-15:00 | F3",
+        "lines": [
+          "  name: 'WG-PL: Ad Hoc Group on AI' -> ' WG-PL: Ad Hoc Group on AI (Resolution 214)'",
+          "  start: 21 Nov 08:00 -> 21 Nov 11:00",
+          "  end: 21 Nov 11:00 -> 21 Nov 15:00",
+          "  room: 'E (Hall 3)' -> 'F3 (Hall 4)'"
+        ]
+      }
+    ]
   }
 ]
