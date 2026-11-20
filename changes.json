@@ -2822,5 +2822,18 @@
       "Committee 5 | Fri 20 Nov 16:00-17:30 | B"
     ],
     "changed": []
+  },
+  {
+    "checked_utc": "2026-11-20T09:30:47+00:00",
+    "added": [],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "Committee 6 Ad hoc on Resolution 5 and draft new resolution on enhancing the cost-efficiency of hosting ITU conferences, assemblies and meetings | Fri 20 Nov 16:15-18:15 | G4",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0096/en'"
+        ]
+      }
+    ]
   }
 ]
