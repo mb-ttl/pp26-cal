@@ -2631,5 +2631,31 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-20T06:15:32+00:00",
+    "added": [],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "COMMITTEE 6 AD HOC GROUP ON RESOLUTIONS 212 AND 217 | Fri 20 Nov 15:00-17:00 | D",
+        "lines": [
+          "  room: 'F1 (Hall 3)' -> 'D (Hall 2)'"
+        ]
+      },
+      {
+        "heading": "WG-PL: Ad Hoc Group on Resilience | Fri 20 Nov 16:00-20:00 | F1",
+        "lines": [
+          "  end: 20 Nov 18:00 -> 20 Nov 20:00",
+          "  room: 'D (Hall 2)' -> 'F1 (Hall 3)'"
+        ]
+      },
+      {
+        "heading": "WG-PL: Ad Hoc Group on Digital Inclusion | Fri 20 Nov 18:00-19:30 | G1",
+        "lines": [
+          "  room: 'F1 (Hall 3)' -> 'G1 (Hall 3)'"
+        ]
+      }
+    ]
   }
 ]
