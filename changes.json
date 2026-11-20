@@ -2843,5 +2843,25 @@
       "COM5 Informal consultation on Res. 182 | Sat 21 Nov 09:00-12:00 | Suite 3C"
     ],
     "changed": []
+  },
+  {
+    "checked_utc": "2026-11-20T10:01:04+00:00",
+    "added": [
+      "WG-PL: Ad Hoc Group on Cybersecurity | Fri 20 Nov 18:00-21:00 | G3",
+      "COM5 Informal Meeting on Frequency Assignments and Satellite Issues (Wrap Up) | Sat 21 Nov 14:00-15:15 | F1",
+      "Informal consultation - Harmful Interference | Sat 21 Nov 15:30-16:45 | F1",
+      "Informal consultation - Harmful Interference | Sat 21 Nov 17:00-18:15 | F1",
+      "Informal consultation - Harmful Interference (wrap-up) | Sat 21 Nov 18:30-19:45 | F1"
+    ],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "COM6 AHG on Dec 11, Res 148 & 208 and draft new resolution on Term of office for elected officials | Fri 20 Nov 18:30-20:00 | F3",
+        "lines": [
+          "  start: 20 Nov 17:30 -> 20 Nov 18:30",
+          "  end: 20 Nov 19:00 -> 20 Nov 20:00"
+        ]
+      }
+    ]
   }
 ]
