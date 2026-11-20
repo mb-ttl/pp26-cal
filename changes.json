@@ -2924,5 +2924,24 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-20T11:15:38+00:00",
+    "added": [],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "WG-PL: Informal Consultation on Resolution 197 | Fri 20 Nov 14:30-18:00 | Suite 4E",
+        "lines": [
+          "  start: 20 Nov 14:00 -> 20 Nov 14:30"
+        ]
+      },
+      {
+        "heading": "WG-PL: AdHoc Group on Resilience | Fri 20 Nov 16:00-20:00 | F1",
+        "lines": [
+          "  name: 'WG-PL: Ad Hoc Group on Resilience' -> 'WG-PL: AdHoc Group on Resilience'"
+        ]
+      }
+    ]
   }
 ]
