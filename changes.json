@@ -2793,5 +2793,24 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-20T08:30:46+00:00",
+    "added": [],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "COMMITTEE 6 AD HOC GROUP ON RESOLUTION 48 | Fri 20 Nov 10:00-12:00 | Suite 1B",
+        "lines": [
+          "  end: 20 Nov 11:00 -> 20 Nov 12:00"
+        ]
+      },
+      {
+        "heading": "COMMITTEE 6 AD HOC GROUP ON RESOLUTIONS 212 AND 217 | Fri 20 Nov 15:00-17:00 | F2",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0079/en'"
+        ]
+      }
+    ]
   }
 ]
