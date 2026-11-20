@@ -2565,5 +2565,25 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-20T04:45:29+00:00",
+    "added": [
+      "COM5 AHG on Res. 182 | Fri 20 Nov 17:30-20:30 | G2",
+      "COM5 Informal consultation on Res. 182 | Fri 20 Nov 17:30-19:00 | Suite 3C",
+      "WG-PL: Informal Consultation on Resolution 206 | Fri 20 Nov 18:00-19:00 | Suite 1B",
+      "COM5 Informal consultation on Res. 182 | Sat 21 Nov 09:00-12:00 | Suite 3C",
+      "WG-PL: Informal Consultation on Resolution 131 | Sat 21 Nov 11:00-12:30 | G5"
+    ],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "WG-PL: Informal Consultation on Resolution 131 | Fri 20 Nov 10:30-12:30 | G5",
+        "lines": [
+          "  start: 20 Nov 11:00 -> 20 Nov 10:30",
+          "  room: 'G4 (Hall 4)' -> 'G5 (Hall 4)'"
+        ]
+      }
+    ]
   }
 ]
