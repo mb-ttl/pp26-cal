@@ -2737,5 +2737,26 @@
     ],
     "removed": [],
     "changed": []
+  },
+  {
+    "checked_utc": "2026-11-20T07:45:33+00:00",
+    "added": [],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "COM5 AHG on Res. 196 | Fri 20 Nov 13:30-14:30 | G1",
+        "lines": [
+          "  name: 'COM5 Informal consultation on Res. 196' -> 'COM5 AHG on Res. 196'"
+        ]
+      },
+      {
+        "heading": "Committee 5 | Fri 20 Nov 16:00-17:30 | B",
+        "lines": [
+          "  name: 'Committee 6 followed by Committee 5' -> 'Committee 5'",
+          "  start: 20 Nov 14:30 -> 20 Nov 16:00",
+          "  committee: 'COM 6' -> 'COM 5'"
+        ]
+      }
+    ]
   }
 ]
