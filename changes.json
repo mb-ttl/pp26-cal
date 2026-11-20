@@ -2714,5 +2714,20 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-20T07:15:32+00:00",
+    "added": [
+      "WG-PL: Ad Hoc Group on Cybersecurity | Sat 21 Nov 09:00-13:00 | F3"
+    ],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "WG-PL: Informal Consultation on Resolution 131 | Fri 20 Nov 10:30-12:30 | G5",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0063/en'"
+        ]
+      }
+    ]
   }
 ]
