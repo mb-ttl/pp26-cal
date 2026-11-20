@@ -2547,5 +2547,23 @@
       "COMMITTEE 6 AD HOC GROUP ON RESOLUTIONS 212 AND 217 | Fri 20 Nov 10:00-12:00 | F1"
     ],
     "changed": []
+  },
+  {
+    "checked_utc": "2026-11-20T04:30:45+00:00",
+    "added": [
+      "COM5 Informal consultation on Res. 182 | Fri 20 Nov 12:00-15:00 | Suite 4C",
+      "WG-PL : Ad Hoc Group on Digital inclusion | Sat 21 Nov 08:00-11:00 | G1"
+    ],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "COM5 AHG on Res. 176 | Fri 20 Nov 08:30-10:00 | F1",
+        "lines": [
+          "  start: 20 Nov 09:00 -> 20 Nov 08:30",
+          "  end: 20 Nov 10:30 -> 20 Nov 10:00",
+          "  room: 'G1 (Hall 3)' -> 'F1 (Hall 3)'"
+        ]
+      }
+    ]
   }
 ]
