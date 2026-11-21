@@ -3515,5 +3515,20 @@
     ],
     "removed": [],
     "changed": []
+  },
+  {
+    "checked_utc": "2026-11-21T14:45:46+00:00",
+    "added": [
+      "Committee 6 Ad hoc on Resolution 5 and draft new resolution on enhancing the cost-efficiency of hosting ITU conferences, assemblies and meetings | Mon 23 Nov 15:30-17:30 | G4"
+    ],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "WG-PL: Ad Hoc Group on WSIS | Sat 21 Nov 16:00-20:00 | G4",
+        "lines": [
+          "  end: 21 Nov 18:00 -> 21 Nov 20:00"
+        ]
+      }
+    ]
   }
 ]
