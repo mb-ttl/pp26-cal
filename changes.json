@@ -3564,5 +3564,18 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-21T18:45:36+00:00",
+    "added": [],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "Committee 6 Ad hoc on Resolution 5 and draft new resolution on enhancing the cost-efficiency of hosting ITU conferences, assemblies and meetings | Mon 23 Nov 15:30-17:30 | G4",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0096/en'"
+        ]
+      }
+    ]
   }
 ]
