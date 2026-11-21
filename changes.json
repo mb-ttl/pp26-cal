@@ -3305,5 +3305,18 @@
     ],
     "removed": [],
     "changed": []
+  },
+  {
+    "checked_utc": "2026-11-21T09:00:58+00:00",
+    "added": [],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "WG-PL: Ad Hoc Group on Internet related resolutions | Sat 21 Nov 14:00-16:00 | B",
+        "lines": [
+          "  room: 'G4 (Hall 4)' -> 'B (Hall 4)'"
+        ]
+      }
+    ]
   }
 ]
