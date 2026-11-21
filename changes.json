@@ -3347,5 +3347,21 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-21T11:01:12+00:00",
+    "added": [
+      "COM6 - Ad hoc group on resolution 91 and Enhancing the efficiency, transparency and cooperation in the processing of satellite netwo rk/system filings | Mon 23 Nov 09:00-11:30 | F3",
+      "COM6 - Ad hoc group on resolution 91 and Enhancing the efficiency, transparency and cooperation in the processing of satellite netwo rk/system filings | Mon 23 Nov 17:30-19:30 | F3"
+    ],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "COMMITTEE 6 - AD-HOC GROUP ON DEC.5 | Sat 21 Nov 12:00-16:00 | F2",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0067/en'"
+        ]
+      }
+    ]
   }
 ]
