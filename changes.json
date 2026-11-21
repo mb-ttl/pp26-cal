@@ -3243,5 +3243,18 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-21T07:30:46+00:00",
+    "added": [],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "COM5 Informal on space issues (Res. 186, Res. 218 and wrap up) | Sat 21 Nov 09:00-14:00 | B",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0051/en'"
+        ]
+      }
+    ]
   }
 ]
