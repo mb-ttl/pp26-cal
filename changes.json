@@ -3224,5 +3224,24 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-21T07:15:45+00:00",
+    "added": [],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "WG-PL: Ad Hoc Group on Internet related resolutions | Sat 21 Nov 10:00-13:00 | E",
+        "lines": [
+          "  room: 'G4 (Hall 4)' -> 'E (Hall 3)'"
+        ]
+      },
+      {
+        "heading": "COM5 Informal consultation - Harmful Interference | Sat 21 Nov 18:30-19:45 | F1",
+        "lines": [
+          "  name: 'COM5 Informal meeting on Harmful Interference (wrap-up)' -> 'COM5 Informal consultation - Harmful Interference'"
+        ]
+      }
+    ]
   }
 ]
