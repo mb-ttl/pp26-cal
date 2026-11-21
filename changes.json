@@ -3199,5 +3199,30 @@
     ],
     "removed": [],
     "changed": []
+  },
+  {
+    "checked_utc": "2026-11-21T05:30:45+00:00",
+    "added": [],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "COM6 AD-HOC GROUP ON RES. 25 , 157 and 30 | Sat 21 Nov 09:00-12:00 | F1",
+        "lines": [
+          "  name: 'AD-HOC GROUP ON RES. 25 , 157 and 30' -> 'COM6 AD-HOC GROUP ON RES. 25 , 157 and 30'"
+        ]
+      },
+      {
+        "heading": "COM6 Informal Consultation Resolution 58 | Sat 21 Nov 11:00-12:30 | D",
+        "lines": [
+          "  name: 'Informal Consultation Resolution 58' -> 'COM6 Informal Consultation Resolution 58'"
+        ]
+      },
+      {
+        "heading": "COM6 Informal consultation Ad hoc group on Decision 11 Resolutions 148 and 208 and draft new res on Terms of Office | Sat 21 Nov 14:30-16:00 | G5",
+        "lines": [
+          "  name: 'Informal consultation Ad hoc group on Decision 11 Resolutions 148 and 208 and draft new res on Terms of Office' -> 'COM6 Informal consultation Ad hoc group on Decision 11 Resolutions 148 and 208 and draft new res on Terms of Office'"
+        ]
+      }
+    ]
   }
 ]
