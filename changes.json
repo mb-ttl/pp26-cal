@@ -3450,5 +3450,44 @@
     ],
     "removed": [],
     "changed": []
+  },
+  {
+    "checked_utc": "2026-11-21T13:00:57+00:00",
+    "added": [
+      "Committee 6 Informal Consultation on Resolution 58 | Mon 23 Nov 08:00-09:30 | G4"
+    ],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "WG-PL : Ad Hoc Group on Digital inclusion | Sat 21 Nov 13:00-16:00 | G2",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0071/en'"
+        ]
+      },
+      {
+        "heading": "WG-PL: Ad Hoc Group on Internet related resolutions | Sat 21 Nov 14:00-16:00 | B",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0093/en'"
+        ]
+      },
+      {
+        "heading": "WG-PL: Informal Consultation on Resolution 131 | Sat 21 Nov 16:00-18:00 | G5",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0063/en'"
+        ]
+      },
+      {
+        "heading": "COM6 - Ad hoc group on resolution 91 and Enhancing the efficiency, transparency and cooperation in the processing of satellite netwo rk/system filings | Mon 23 Nov 09:00-11:30 | F3",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0069/en'"
+        ]
+      },
+      {
+        "heading": "Committee 6 | Mon 23 Nov 09:30-12:30 | B",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-ADM-0008/en'"
+        ]
+      }
+    ]
   }
 ]
