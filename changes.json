@@ -3363,5 +3363,18 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-21T11:15:37+00:00",
+    "added": [],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "COM5 AHG on Res. 136 and Res. 182 | Sat 21 Nov 13:00-22:00 | G3",
+        "lines": [
+          "  end: 21 Nov 20:30 -> 21 Nov 22:00"
+        ]
+      }
+    ]
   }
 ]
