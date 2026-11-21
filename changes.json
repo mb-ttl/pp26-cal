@@ -3275,5 +3275,27 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-21T08:15:37+00:00",
+    "added": [
+      "COM5 AHG on Res. 136 and Res. 182 | Sat 21 Nov 13:00-20:30 | G3"
+    ],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "Committee 6 Ad hoc on Resolution 5 and draft new resolution on enhancing the cost-efficiency of hosting ITU conferences, assemblies and meetings | Sat 21 Nov 13:00-14:30 | G1",
+        "lines": [
+          "  end: 21 Nov 15:00 -> 21 Nov 14:30",
+          "  room: 'G3 (Hall 4)' -> 'G1 (Hall 3)'"
+        ]
+      },
+      {
+        "heading": "COMMITTEE 6 AD HOC GROUP ON RESOLUTION 48 | Mon 23 Nov 13:00-14:30 | Suite 3D",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0025/en'"
+        ]
+      }
+    ]
   }
 ]
