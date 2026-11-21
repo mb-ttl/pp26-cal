@@ -3419,5 +3419,20 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-21T12:01:00+00:00",
+    "added": [
+      "COM5 Informal Consultation on LEO and Lunar (Led by China) | Sat 21 Nov 20:30-22:00 | E"
+    ],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "COM5 AHG on Res. 136 and Res. 182 | Sat 21 Nov 16:00-20:00 | G3",
+        "lines": [
+          "  documentNumber: 'md/S26-PP-261109-DL-0047/en' -> 'S26-PP-261109-DL-0047/en'"
+        ]
+      }
+    ]
   }
 ]
