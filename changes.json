@@ -3538,5 +3538,18 @@
     ],
     "removed": [],
     "changed": []
+  },
+  {
+    "checked_utc": "2026-11-21T15:15:35+00:00",
+    "added": [],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "WG-PL: Ad Hoc Group on Resilience | Sat 21 Nov 20:00-22:00 | C",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0085/en'"
+        ]
+      }
+    ]
   }
 ]
