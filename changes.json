@@ -3618,5 +3618,24 @@
     ],
     "removed": [],
     "changed": []
+  },
+  {
+    "checked_utc": "2026-11-22T09:45:32+00:00",
+    "added": [],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "Committee 5 followed by WG-PL | Mon 23 Nov 09:30-12:30 | A - Plenary",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-ADM-0029/en'"
+        ]
+      },
+      {
+        "heading": "Committee 6 | Mon 23 Nov 09:30-12:30 | B",
+        "lines": [
+          "  documentNumber: 'S26-PP-ADM-0029/en' -> 'S26-PP-ADM-0008/en'"
+        ]
+      }
+    ]
   }
 ]
