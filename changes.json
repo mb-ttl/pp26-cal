@@ -3590,5 +3590,17 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-22T08:15:33+00:00",
+    "added": [
+      "WG-PL: Ad Hoc Group on Internet related resolutions | Mon 23 Nov 14:00-16:00 | D",
+      "Committee 6- Ad hoc Group on Res. 25 | Mon 23 Nov 15:00-17:00 | G2",
+      "WG-PL:  Ad hoc Group on Resilience | Mon 23 Nov 17:30-19:30 | F1",
+      "WG-PL: Ad Hoc Group on Internet related resolutions | Mon 23 Nov 17:30-20:30 | F2",
+      "WG-PL: Ad hoc meeting on Resolution 140 | Mon 23 Nov 19:00-21:00 | G2"
+    ],
+    "removed": [],
+    "changed": []
   }
 ]
