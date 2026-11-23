@@ -3676,5 +3676,21 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-23T05:15:35+00:00",
+    "added": [
+      " WG-PL: Informal consultation for the Ad Hoc on AI (Resolution 214) | Mon 23 Nov 08:30-11:00 | Suite 1B",
+      "Committee 4 | Mon 23 Nov 14:30-16:30 | H"
+    ],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "Committee 6- Ad hoc Group on Res. 25 | Mon 23 Nov 15:00-17:00 | G2",
+        "lines": [
+          "  documentNumber: 'S26-PP-261109-DL-0053/en' -> 'S26-PP-261109-DL-0064/en'"
+        ]
+      }
+    ]
   }
 ]
