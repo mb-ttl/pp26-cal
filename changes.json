@@ -3821,5 +3821,27 @@
     ],
     "removed": [],
     "changed": []
+  },
+  {
+    "checked_utc": "2026-11-23T09:30:49+00:00",
+    "added": [],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "COM5 AHG on Res. 136 | Mon 23 Nov 13:00-13:30 | G4",
+        "lines": [
+          "  end: 23 Nov 14:00 -> 23 Nov 13:30"
+        ]
+      },
+      {
+        "heading": "COM5 AHG on Space issues (Res. 218) TBD | Mon 23 Nov 17:30-18:45 | C",
+        "lines": [
+          "  name: 'COM5 AHG on Space issues (Res. 218)' -> 'COM5 AHG on Space issues (Res. 218) TBD'",
+          "  start: 23 Nov 14:30 -> 23 Nov 17:30",
+          "  end: 23 Nov 15:45 -> 23 Nov 18:45",
+          "  room: 'F2 (Hall 3)' -> 'C (Hall 2)'"
+        ]
+      }
+    ]
   }
 ]
