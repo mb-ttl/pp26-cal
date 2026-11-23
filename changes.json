@@ -3866,5 +3866,28 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-23T10:30:59+00:00",
+    "added": [
+      "WG-PL: Ad Hoc Group on Internet related resolutions | Mon 23 Nov 14:00-19:00 | G5"
+    ],
+    "removed": [
+      "WG-PL: Ad Hoc Group on Internet related resolutions | Mon 23 Nov 17:30-20:30 | F2"
+    ],
+    "changed": [
+      {
+        "heading": "WG-PL: Ad Hoc Group on Cybersecurity (Resolution 130) | Mon 23 Nov 13:00-17:00 | F3",
+        "lines": [
+          "  end: 23 Nov 16:00 -> 23 Nov 17:00"
+        ]
+      },
+      {
+        "heading": "WG-PL:  Ad hoc Group on Resilience | Mon 23 Nov 15:00-17:30 | F2",
+        "lines": [
+          "  documentNumber: 'S26-PP-261109-DL-0085/en' -> 'S26-PP-261109-DL-0085'"
+        ]
+      }
+    ]
   }
 ]
