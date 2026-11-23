@@ -4126,5 +4126,20 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-23T16:30:50+00:00",
+    "added": [],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "WG-PL: Ad Hoc Group on Internet related resolutions | Mon 23 Nov 21:00-22:00 | F3",
+        "lines": [
+          "  start: 23 Nov 16:00 -> 23 Nov 21:00",
+          "  end: 23 Nov 21:00 -> 23 Nov 22:00",
+          "  room: 'B (Hall 4)' -> 'F3 (Hall 4)'"
+        ]
+      }
+    ]
   }
 ]
