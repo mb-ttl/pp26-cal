@@ -3843,5 +3843,28 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-23T10:15:36+00:00",
+    "added": [],
+    "removed": [
+      "WG-PL: Ad Hoc Group on Internet related resolutions | Mon 23 Nov 14:00-16:00 | D"
+    ],
+    "changed": [
+      {
+        "heading": "COM5 AHG on Harmful Interference | Mon 23 Nov 14:30-15:45 | B",
+        "lines": [
+          "  room: 'E (Hall 3)' -> 'B (Hall 4)'"
+        ]
+      },
+      {
+        "heading": "WG-PL:  Ad hoc Group on Resilience | Mon 23 Nov 15:00-17:30 | F2",
+        "lines": [
+          "  start: 23 Nov 17:30 -> 23 Nov 15:00",
+          "  end: 23 Nov 19:30 -> 23 Nov 17:30",
+          "  room: 'F1 (Hall 3)' -> 'F2 (Hall 3)'"
+        ]
+      }
+    ]
   }
 ]
