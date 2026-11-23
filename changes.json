@@ -3968,5 +3968,18 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-23T13:30:51+00:00",
+    "added": [],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "COM5 AHG on Space issues (Res. 218) | Mon 23 Nov 17:30-18:45 | C",
+        "lines": [
+          "  name: 'COM5 AHG on Space issues (Res. 218) TBD' -> 'COM5 AHG on Space issues (Res. 218)'"
+        ]
+      }
+    ]
   }
 ]
