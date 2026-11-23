@@ -4019,5 +4019,42 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-23T14:45:35+00:00",
+    "added": [],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "WG-PL: Ad Hoc Group on Internet related resolutions | Mon 23 Nov 16:00-19:00 | B",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0093/en'"
+        ]
+      },
+      {
+        "heading": "Ad hoc Group on Res. 25 | Mon 23 Nov 17:30-19:30 | G1",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0064/en'"
+        ]
+      },
+      {
+        "heading": "COM 6 Ad hoc group on Decision 11 Resolutions 148 and 208 and draft new Res on Terms of Office | Mon 23 Nov 19:00-21:00 | G5",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0053/en'"
+        ]
+      },
+      {
+        "heading": "WG-PL:  Ad hoc Group on Cybersecurity | Mon 23 Nov 19:00-22:00 | E",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0041/en'"
+        ]
+      },
+      {
+        "heading": "COM5 AHG on Space issues (Lunar exploration) | Tue 24 Nov 08:00-09:30 | C",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0080/en'"
+        ]
+      }
+    ]
   }
 ]
