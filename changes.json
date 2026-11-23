@@ -3715,5 +3715,58 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-23T07:30:52+00:00",
+    "added": [
+      "COM5 AHG on Res. 136 | Mon 23 Nov 13:00-14:00 | G4"
+    ],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "Committee 6 -  Ad hoc Group on Decision 5 | Mon 23 Nov 13:00-14:30 | F1",
+        "lines": [
+          "  name: 'Committee 6 -  Ad hoc on Decision 5' -> 'Committee 6 -  Ad hoc Group on Decision 5'",
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0067/en'"
+        ]
+      },
+      {
+        "heading": "COMMITTEE 6 AD HOC GROUP ON RESOLUTIONS 217 | Mon 23 Nov 15:00-17:00 | F1",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0079/en'"
+        ]
+      },
+      {
+        "heading": "COM6 - Ad hoc Group on Resolution 91 and enhancing the efficiency, transparency and cooperation in the processing of satellite netwo rk/system filings | Mon 23 Nov 17:30-19:30 | F3",
+        "lines": [
+          "  name: 'COM6 - Ad hoc group on resolution 91 and Enhancing the efficiency, transparency and cooperation in the processing of satellite netwo rk/system filings' -> 'COM6 - Ad hoc Group on Resolution 91 and enhancing the efficiency, transparency and cooperation in the processing of satellite netwo rk/system filings'",
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0069/en'"
+        ]
+      },
+      {
+        "heading": "WG-PL:  Ad hoc Group on AI | Mon 23 Nov 17:30-20:00 | D",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0029/en'"
+        ]
+      },
+      {
+        "heading": "WG-PL:  Ad hoc Group on Resilience | Mon 23 Nov 17:30-19:30 | F1",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0085/en'"
+        ]
+      },
+      {
+        "heading": "WG-PL: Ad Hoc Group on Internet related resolutions | Mon 23 Nov 17:30-20:30 | F2",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0093/en'"
+        ]
+      },
+      {
+        "heading": "WG-PL: Ad hoc meeting on Resolution 140 | Mon 23 Nov 19:00-21:00 | G4",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0063/en'"
+        ]
+      }
+    ]
   }
 ]
