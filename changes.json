@@ -3981,5 +3981,21 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-23T14:00:58+00:00",
+    "added": [
+      "Ad hoc Group on Res. 25 | Mon 23 Nov 17:30-19:30 | G1",
+      "COM5 AHG on Space issues (Lunar exploration) | Tue 24 Nov 08:00-09:30 | C"
+    ],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "WG-PL:  Ad hoc Group on Resilience | Mon 23 Nov 15:00-19:00 | F2",
+        "lines": [
+          "  end: 23 Nov 17:30 -> 23 Nov 19:00"
+        ]
+      }
+    ]
   }
 ]
