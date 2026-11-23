@@ -3790,5 +3790,27 @@
     ],
     "removed": [],
     "changed": []
+  },
+  {
+    "checked_utc": "2026-11-23T08:45:38+00:00",
+    "added": [
+      "COM5 AHG on Harmful Interference | Mon 23 Nov 14:30-15:45 | E",
+      "Committee 6 - Informal Consultation on Resolutions 162 | Mon 23 Nov 17:45-18:30 | Suite 2C"
+    ],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "Committee 5 followed by WG-PL | Mon 23 Nov 09:30-12:30 | A - Plenary",
+        "lines": [
+          "  documentNumber: 'S26-PP-ADM-0029/en' -> 'S26-PP-ADM-0029'"
+        ]
+      },
+      {
+        "heading": "Plenary followed by Committee 5 | Mon 23 Nov 14:30-17:30 | A - Plenary",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-ADM-0030'"
+        ]
+      }
+    ]
   }
 ]
