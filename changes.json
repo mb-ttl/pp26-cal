@@ -3934,5 +3934,26 @@
     ],
     "removed": [],
     "changed": []
+  },
+  {
+    "checked_utc": "2026-11-23T12:30:45+00:00",
+    "added": [
+      "COM 6 Ad hoc group on Decision 11 Resolutions 148 and 208 and draft new Res on Terms of Office | Mon 23 Nov 19:00-21:00 | G5"
+    ],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "COM6 - Ad hoc group on resolution 91 and Enhancing the efficiency, transparency and cooperation in the processing of satellite netwo rk/system filings | Mon 23 Nov 17:30-19:30 | F3",
+        "lines": [
+          "  name: 'COM6 - Ad hoc Group on Resolution 91 and enhancing the efficiency, transparency and cooperation in the processing of satellite netwo rk/system filings' -> 'COM6 - Ad hoc group on resolution 91 and Enhancing the efficiency, transparency and cooperation in the processing of satellite netwo rk/system filings'"
+        ]
+      },
+      {
+        "heading": "WG-PL:  Ad hoc Group on Cybersecurity | Mon 23 Nov 19:00-22:00 | E",
+        "lines": [
+          "  end: 24 Nov 22:00 -> 23 Nov 22:00"
+        ]
+      }
+    ]
   }
 ]
