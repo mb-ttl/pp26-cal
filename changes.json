@@ -4100,5 +4100,31 @@
       "WG-PL | Tue 24 Nov 11:00-12:30 | B"
     ],
     "changed": []
+  },
+  {
+    "checked_utc": "2026-11-23T16:15:34+00:00",
+    "added": [],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "WG-PL:  Ad hoc Group on Resilience | Mon 23 Nov 15:00-21:00 | F2",
+        "lines": [
+          "  end: 23 Nov 19:00 -> 23 Nov 21:00"
+        ]
+      },
+      {
+        "heading": "COM5 Informal consultations on ITU-R modernization and enhanced ITU management of spectrum and orbital resources followed by Res. 218 | Mon 23 Nov 19:00-20:30 | C",
+        "lines": [
+          "  name: 'COM5 Informal consultations on ITU-R modernization and enhanced ITU management of spectrum and orbital resources' -> 'COM5 Informal consultations on ITU-R modernization and enhanced ITU management of spectrum and orbital resources followed by Res. 218'"
+        ]
+      },
+      {
+        "heading": "Committee 6 | Tue 24 Nov 16:00-17:30 | B",
+        "lines": [
+          "  start: 24 Nov 14:30 -> 24 Nov 16:00",
+          "  end: 24 Nov 16:00 -> 24 Nov 17:30"
+        ]
+      }
+    ]
   }
 ]
