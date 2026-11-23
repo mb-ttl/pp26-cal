@@ -3663,5 +3663,18 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-23T05:00:57+00:00",
+    "added": [],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "WG-PL:  Ad hoc Group on Resilience | Mon 23 Nov 08:30-11:00 | D",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0085'"
+        ]
+      }
+    ]
   }
 ]
