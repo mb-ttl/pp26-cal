@@ -3997,5 +3997,27 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-23T14:15:34+00:00",
+    "added": [
+      "COM5 Informal consultations on ITU-R modernization and enhanced ITU management of spectrum and orbital resources | Mon 23 Nov 19:00-20:30 | C"
+    ],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "COM5 AHG on Space issues (Res. 218) | Mon 23 Nov 17:30-18:45 | C",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0080/en'"
+        ]
+      },
+      {
+        "heading": "COMMITTEE 6 AD HOC GROUP ON RESOLUTION 217 | Mon 23 Nov 17:30-19:30 | F1",
+        "lines": [
+          "  name: 'COMMITTEE 6 AD HOC GROUP ON RESOLUTIONS 217' -> 'COMMITTEE 6 AD HOC GROUP ON RESOLUTION 217'",
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0079/en'"
+        ]
+      }
+    ]
   }
 ]
