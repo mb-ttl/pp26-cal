@@ -4056,5 +4056,28 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-23T15:30:51+00:00",
+    "added": [
+      "Committee 6 Ad hoc on Resolution 5 and draft new resolution on enhancing the cost-efficiency of hosting ITU conferences, assemblies and meetings | Tue 24 Nov 08:00-09:30 | G3"
+    ],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "Committee 6 followed by WG-PL | Tue 24 Nov 09:30-12:30 | A - Plenary",
+        "lines": [
+          "  name: 'Plenary followed by Committee 6' -> 'Committee 6 followed by WG-PL'",
+          "  committee: 'PLEN' -> 'COM 6'"
+        ]
+      },
+      {
+        "heading": "Plenary followed by Committee 5 | Tue 24 Nov 14:30-17:30 | A - Plenary",
+        "lines": [
+          "  name: 'WG-PL followed by Committee 5' -> 'Plenary followed by Committee 5'",
+          "  committee: 'WG-PL' -> 'PLEN'"
+        ]
+      }
+    ]
   }
 ]
