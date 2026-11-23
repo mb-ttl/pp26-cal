@@ -3700,5 +3700,20 @@
     ],
     "removed": [],
     "changed": []
+  },
+  {
+    "checked_utc": "2026-11-23T06:00:54+00:00",
+    "added": [
+      " WG-PL: Informal Consultation  Ad Hoc Cybersecurity on DNR on Spoofing | Mon 23 Nov 17:30-18:30 | G2"
+    ],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "WG-PL: Ad hoc meeting on Resolution 140 | Mon 23 Nov 19:00-21:00 | G4",
+        "lines": [
+          "  room: 'G2 (Hall 4)' -> 'G4 (Hall 4)'"
+        ]
+      }
+    ]
   }
 ]
