@@ -3897,5 +3897,26 @@
       "WG-PL | Mon 23 Nov 16:00-17:30 | B"
     ],
     "changed": []
+  },
+  {
+    "checked_utc": "2026-11-23T11:30:47+00:00",
+    "added": [
+      "WG-PL: Ad Hoc Group on Internet related resolutions | Mon 23 Nov 16:00-19:00 | B"
+    ],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "WG-PL: Ad Hoc Group on Internet related resolutions | Mon 23 Nov 14:00-16:00 | G5",
+        "lines": [
+          "  end: 23 Nov 19:00 -> 23 Nov 16:00"
+        ]
+      },
+      {
+        "heading": "WG-PL:  Ad hoc Group on Cybersecurity | Mon 23 Nov 19:00-22:00 | E",
+        "lines": [
+          "  end: 24 Nov 00:00 -> 24 Nov 22:00"
+        ]
+      }
+    ]
   }
 ]
