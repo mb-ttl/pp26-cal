@@ -4469,5 +4469,18 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-24T15:15:37+00:00",
+    "added": [],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "WG-PL : Ad Hoc Group on Cybersecurity | Tue 24 Nov 14:00-21:00 | F1",
+        "lines": [
+          "  end: 24 Nov 19:00 -> 24 Nov 21:00"
+        ]
+      }
+    ]
   }
 ]
