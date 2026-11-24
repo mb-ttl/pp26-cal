@@ -4429,5 +4429,19 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-24T13:15:38+00:00",
+    "added": [],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "Committee 4 | Tue 24 Nov 16:45-19:45 | H",
+        "lines": [
+          "  start: 24 Nov 16:00 -> 24 Nov 16:45",
+          "  end: 24 Nov 19:00 -> 24 Nov 19:45"
+        ]
+      }
+    ]
   }
 ]
