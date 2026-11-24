@@ -4335,5 +4335,26 @@
     ],
     "removed": [],
     "changed": []
+  },
+  {
+    "checked_utc": "2026-11-24T08:45:34+00:00",
+    "added": [
+      "WG-PL: Ad Hoc Group on Internet | Tue 24 Nov 12:30-14:30 | F3"
+    ],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "WG-PL: Ad Hoc Group on Resilience | Tue 24 Nov 11:00-13:45 | E",
+        "lines": [
+          "  end: 24 Nov 12:30 -> 24 Nov 13:45"
+        ]
+      },
+      {
+        "heading": "Plenary followed by Committee 5 | Tue 24 Nov 14:30-17:30 | A - Plenary",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-ADM-0032'"
+        ]
+      }
+    ]
   }
 ]
