@@ -4403,5 +4403,18 @@
     ],
     "removed": [],
     "changed": []
+  },
+  {
+    "checked_utc": "2026-11-24T11:45:33+00:00",
+    "added": [],
+    "removed": [],
+    "changed": [
+      {
+        "heading": " WG-PL: Informal consultation on Resolution 131 | Tue 24 Nov 16:00-18:00 | G4",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0063/en'"
+        ]
+      }
+    ]
   }
 ]
