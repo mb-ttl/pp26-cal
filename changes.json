@@ -4482,5 +4482,37 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-24T15:45:37+00:00",
+    "added": [
+      "WG-PL | Wed 25 Nov 16:00-17:30 | B"
+    ],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "Committee 6 | Wed 25 Nov 09:30-12:30 | B",
+        "lines": [
+          "  start: 25 Nov 14:30 -> 25 Nov 09:30",
+          "  end: 25 Nov 16:00 -> 25 Nov 12:30"
+        ]
+      },
+      {
+        "heading": "WG-PL | Wed 25 Nov 11:00-12:30 | A - Plenary",
+        "lines": [
+          "  name: 'Plenary followed by WG-PL' -> 'WG-PL'",
+          "  start: 25 Nov 09:30 -> 25 Nov 11:00",
+          "  committee: 'PLEN' -> 'WG-PL'"
+        ]
+      },
+      {
+        "heading": "Plenary followed by Committe 6 | Wed 25 Nov 14:30-17:30 | A - Plenary",
+        "lines": [
+          "  name: 'WG-PL' -> 'Plenary followed by Committe 6'",
+          "  end: 25 Nov 16:00 -> 25 Nov 17:30",
+          "  committee: 'WG-PL' -> 'PLEN'"
+        ]
+      }
+    ]
   }
 ]
