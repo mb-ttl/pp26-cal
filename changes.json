@@ -4200,5 +4200,24 @@
       "WG-PL: Ad Hoc Group on Internet | Tue 24 Nov 09:00-11:00 | F3"
     ],
     "changed": []
+  },
+  {
+    "checked_utc": "2026-11-24T05:15:41+00:00",
+    "added": [],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "WG-PL: Ad Hoc Group on Resilience | Tue 24 Nov 08:30-11:00 | E",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-261109-DL-0085/en'"
+        ]
+      },
+      {
+        "heading": "WG-PL:  Ad Hoc on AI (Resolution 214) | Tue 24 Nov 09:30-13:00 | D",
+        "lines": [
+          "  start: 24 Nov 09:00 -> 24 Nov 09:30"
+        ]
+      }
+    ]
   }
 ]
