@@ -4298,5 +4298,26 @@
     ],
     "removed": [],
     "changed": []
+  },
+  {
+    "checked_utc": "2026-11-24T07:30:50+00:00",
+    "added": [
+      "Committee 6 Ad hoc on Resolution 5 and draft new resolution on enhancing the cost-efficiency of hosting ITU conferences, assemblies and meetings | Tue 24 Nov 13:00-14:30 | Suite 3C"
+    ],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "WG-PL : Ad Hoc Group on Cybersecurity | Tue 24 Nov 14:00-19:00 | F1",
+        "lines": [
+          "  room: 'C (Hall 2)' -> 'F1 (Hall 3)'"
+        ]
+      },
+      {
+        "heading": "WG-PL:  Ad Hoc on AI (Resolution 214) | Tue 24 Nov 16:00-21:00 | F2",
+        "lines": [
+          "  room: 'F1 (Hall 3)' -> 'F2 (Hall 3)'"
+        ]
+      }
+    ]
   }
 ]
