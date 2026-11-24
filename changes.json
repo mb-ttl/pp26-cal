@@ -4277,5 +4277,18 @@
       "WG-PL : Ad Hoc Group on Cybersecurity | Tue 24 Nov 11:00-12:30 | C"
     ],
     "changed": []
+  },
+  {
+    "checked_utc": "2026-11-24T07:00:55+00:00",
+    "added": [],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "WG-PL:  Ad Hoc on AI (Resolution 214) | Tue 24 Nov 11:30-16:00 | D",
+        "lines": [
+          "  end: 24 Nov 13:00 -> 24 Nov 16:00"
+        ]
+      }
+    ]
   }
 ]
