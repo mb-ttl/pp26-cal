@@ -4219,5 +4219,18 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-24T05:30:44+00:00",
+    "added": [],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "WG-PL:  Ad Hoc on AI (Resolution 214) | Tue 24 Nov 11:30-13:00 | D",
+        "lines": [
+          "  start: 24 Nov 09:30 -> 24 Nov 11:30"
+        ]
+      }
+    ]
   }
 ]
