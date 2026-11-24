@@ -4372,5 +4372,20 @@
     ],
     "removed": [],
     "changed": []
+  },
+  {
+    "checked_utc": "2026-11-24T10:15:36+00:00",
+    "added": [
+      "WG-PL: Ad Hoc Group on Resilience | Tue 24 Nov 13:30-16:00 | C"
+    ],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "WG-PL: Ad Hoc Group on Resilience | Tue 24 Nov 11:00-13:30 | E",
+        "lines": [
+          "  end: 24 Nov 13:45 -> 24 Nov 13:30"
+        ]
+      }
+    ]
   }
 ]
