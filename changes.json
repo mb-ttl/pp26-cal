@@ -4707,5 +4707,19 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-25T13:15:37+00:00",
+    "added": [],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "WG-PL | Wed 25 Nov 17:30-19:00 | B",
+        "lines": [
+          "  start: 25 Nov 17:00 -> 25 Nov 17:30",
+          "  end: 25 Nov 18:30 -> 25 Nov 19:00"
+        ]
+      }
+    ]
   }
 ]
