@@ -4598,5 +4598,18 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-25T09:00:55+00:00",
+    "added": [],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "WG-PL Ad Hoc Group on Internet related Resolutions | Wed 25 Nov 13:30-15:30 | F3",
+        "lines": [
+          "  name: 'Ad Hoc Group on Internet related Resolutions' -> 'WG-PL Ad Hoc Group on Internet related Resolutions'"
+        ]
+      }
+    ]
   }
 ]
