@@ -4551,5 +4551,20 @@
     ],
     "removed": [],
     "changed": []
+  },
+  {
+    "checked_utc": "2026-11-25T05:15:40+00:00",
+    "added": [
+      "Committee 4 | Wed 25 Nov 10:00-14:00 | H"
+    ],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "WGPL: Ad Hoc group on AI | Wed 25 Nov 09:30-11:00 | F1",
+        "lines": [
+          "  start: 25 Nov 09:00 -> 25 Nov 09:30"
+        ]
+      }
+    ]
   }
 ]
