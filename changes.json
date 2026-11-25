@@ -4624,5 +4624,24 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-25T10:00:55+00:00",
+    "added": [],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "WGPL: Ad Hoc group on AI | Wed 25 Nov 09:30-15:00 | F1",
+        "lines": [
+          "  end: 25 Nov 12:45 -> 25 Nov 15:00"
+        ]
+      },
+      {
+        "heading": "WG-PL Ad Hoc Group on Internet related Resolutions | Wed 25 Nov 13:30-15:30 | B",
+        "lines": [
+          "  room: 'F3 (Hall 4)' -> 'B (Hall 4)'"
+        ]
+      }
+    ]
   }
 ]
