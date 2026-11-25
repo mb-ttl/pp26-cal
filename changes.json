@@ -4585,5 +4585,18 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-25T08:30:47+00:00",
+    "added": [],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "Plenary | Wed 25 Nov 18:00-19:30 | A - Plenary",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-ADM-0033'"
+        ]
+      }
+    ]
   }
 ]
