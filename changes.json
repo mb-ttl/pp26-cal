@@ -4671,5 +4671,21 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-25T12:45:36+00:00",
+    "added": [],
+    "removed": [
+      "Plenary | Wed 25 Nov 18:00-19:30 | A - Plenary"
+    ],
+    "changed": [
+      {
+        "heading": "Plenary | Wed 25 Nov 14:30-15:30 | A - Plenary",
+        "lines": [
+          "  name: 'Plenary followed by Committe 6' -> 'Plenary'",
+          "  end: 25 Nov 17:30 -> 25 Nov 15:30"
+        ]
+      }
+    ]
   }
 ]
