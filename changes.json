@@ -4781,5 +4781,24 @@
         ]
       }
     ]
+  },
+  {
+    "checked_utc": "2026-11-26T15:45:38+00:00",
+    "added": [],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "Plenary | Fri 27 Nov 08:30-09:30 | A - Plenary",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-ADM-0036/en'"
+        ]
+      },
+      {
+        "heading": "Plenary - Signing & Closing Ceremonies | Fri 27 Nov 14:30-17:30 | A - Plenary",
+        "lines": [
+          "  documentNumber: '' -> 'S26-PP-ADM-0037/en'"
+        ]
+      }
+    ]
   }
 ]
