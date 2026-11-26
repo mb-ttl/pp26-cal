@@ -4742,5 +4742,18 @@
     ],
     "removed": [],
     "changed": []
+  },
+  {
+    "checked_utc": "2026-11-26T08:30:50+00:00",
+    "added": [],
+    "removed": [],
+    "changed": [
+      {
+        "heading": "Plenary | Thu 26 Nov 09:30-11:00 | A - Plenary",
+        "lines": [
+          "  end: 26 Nov 12:30 -> 26 Nov 11:00"
+        ]
+      }
+    ]
   }
 ]
